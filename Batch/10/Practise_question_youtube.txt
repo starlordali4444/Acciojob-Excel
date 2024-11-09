@@ -1,0 +1,312 @@
+1. **Total Views per Category**
+   - Create a pivot table to sum the total views for each category.
+
+2. **Average Likes per Category**
+   - Create a pivot table to find the average number of likes for each category.
+
+3. **Total Comments per Channel**
+   - Create a pivot table to sum the total comments for each channel.
+
+4. **Average Duration of Videos per Category**
+   - Create a pivot table to calculate the average duration of videos for each category.
+
+5. **Number of Videos per Channel**
+   - Create a pivot table to count the number of videos for each channel.
+
+6. **Total Views per Channel per Category**
+   - Create a pivot table to sum the total views for each channel within each category.
+
+7. **Average Dislikes per Category per Channel**
+   - Create a pivot table to find the average number of dislikes for each category within each channel.
+
+8. **Total Views and Total Likes for Each Category**
+   - Create a pivot table to sum both the total views and total likes for each category.
+
+9. **Videos Uploaded per Month**
+   - Create a pivot table to count the number of videos uploaded each month by extracting the month from the upload date.
+
+10. **Top 5 Videos with the Most Views**
+    - Create a pivot table and sort the total views to find the top 5 videos with the most views.
+
+11. **Average Views per Category for Videos Longer than 15 Minutes**
+    - Create a pivot table to find the average views per category for videos with a duration longer than 15 minutes.
+
+12. **Total Comments per Category per Month**
+    - Create a pivot table to sum the total comments for each category within each month by extracting the month from the upload date.
+
+13. **Average Duration per Channel**
+    - Create a pivot table to calculate the average duration of videos for each channel.
+
+14. **Total Dislikes per Channel per Month**
+    - Create a pivot table to sum the total dislikes for each channel within each month by extracting the month from the upload date.
+
+15. **Percentage of Total Views for Each Category**
+    - Create a pivot table to calculate the percentage of total views that each category represents out of the overall views.
+
+Sure! Here are 50 additional EDA or simple questions to practice pivot tables using the provided YouTube dataset:
+
+16. **Total Likes per Channel**
+    - Create a pivot table to sum the total likes for each channel.
+
+17. **Total Dislikes per Category**
+    - Create a pivot table to sum the total dislikes for each category.
+
+18. **Average Comments per Video per Category**
+    - Create a pivot table to calculate the average number of comments per video for each category.
+
+19. **Number of Videos per Category per Month**
+    - Create a pivot table to count the number of videos for each category within each month by extracting the month from the upload date.
+
+20. **Total Views per Channel per Month**
+    - Create a pivot table to sum the total views for each channel within each month by extracting the month from the upload date.
+
+21. **Average Likes per Video per Channel**
+    - Create a pivot table to calculate the average number of likes per video for each channel.
+
+22. **Total Views for Videos Longer than 20 Minutes per Category**
+    - Create a pivot table to sum the total views for videos with a duration longer than 20 minutes for each category.
+
+23. **Total Comments for Videos Shorter than 10 Minutes per Channel**
+    - Create a pivot table to sum the total comments for videos with a duration shorter than 10 minutes for each channel.
+
+24. **Average Duration of Videos per Channel per Category**
+    - Create a pivot table to calculate the average duration of videos for each channel within each category.
+
+25. **Total Likes and Dislikes per Channel**
+    - Create a pivot table to sum both the total likes and total dislikes for each channel.
+
+26. **Total Views for Each Month**
+    - Create a pivot table to sum the total views for each month by extracting the month from the upload date.
+
+27. **Average Views per Video per Month**
+    - Create a pivot table to calculate the average number of views per video for each month by extracting the month from the upload date.
+
+28. **Total Comments per Category per Channel**
+    - Create a pivot table to sum the total comments for each category within each channel.
+
+29. **Total Duration of Videos per Channel**
+    - Create a pivot table to sum the total duration of videos for each channel.
+
+30. **Average Likes per Video per Month**
+    - Create a pivot table to calculate the average number of likes per video for each month by extracting the month from the upload date.
+
+31. **Total Dislikes per Video per Month**
+    - Create a pivot table to sum the total dislikes per video for each month by extracting the month from the upload date.
+
+32. **Total Comments per Video per Channel**
+    - Create a pivot table to sum the total comments per video for each channel.
+
+33. **Total Views per Category per Month**
+    - Create a pivot table to sum the total views for each category within each month by extracting the month from the upload date.
+
+34. **Average Duration of Videos per Month**
+    - Create a pivot table to calculate the average duration of videos for each month by extracting the month from the upload date.
+
+35. **Total Likes per Category per Month**
+    - Create a pivot table to sum the total likes for each category within each month by extracting the month from the upload date.
+
+36. **Total Dislikes per Category per Month**
+    - Create a pivot table to sum the total dislikes for each category within each month by extracting the month from the upload date.
+
+37. **Average Comments per Video per Month**
+    - Create a pivot table to calculate the average number of comments per video for each month by extracting the month from the upload date.
+
+38. **Total Views for Each Channel per Year**
+    - Create a pivot table to sum the total views for each channel within each year by extracting the year from the upload date.
+
+39. **Average Likes per Video per Year**
+    - Create a pivot table to calculate the average number of likes per video for each year by extracting the year from the upload date.
+
+40. **Total Dislikes per Video per Year**
+    - Create a pivot table to sum the total dislikes per video for each year by extracting the year from the upload date.
+
+41. **Total Comments per Video per Year**
+    - Create a pivot table to sum the total comments per video for each year by extracting the year from the upload date.
+
+42. **Average Duration of Videos per Year**
+    - Create a pivot table to calculate the average duration of videos for each year by extracting the year from the upload date.
+
+43. **Total Views per Video Title**
+    - Create a pivot table to sum the total views for each video title.
+
+44. **Average Likes per Video Title**
+    - Create a pivot table to calculate the average number of likes for each video title.
+
+45. **Total Dislikes per Video Title**
+    - Create a pivot table to sum the total dislikes for each video title.
+
+46. **Total Comments per Video Title**
+    - Create a pivot table to sum the total comments for each video title.
+
+47. **Total Duration of Videos per Video Title**
+    - Create a pivot table to sum the total duration of videos for each video title.
+
+48. **Total Views and Likes for Each Video Title**
+    - Create a pivot table to sum both the total views and total likes for each video title.
+
+49. **Total Dislikes and Comments for Each Video Title**
+    - Create a pivot table to sum both the total dislikes and total comments for each video title.
+
+50. **Total Views per Channel per Category per Month**
+    - Create a pivot table to sum the total views for each channel within each category and month by extracting the month from the upload date.
+
+51. **Average Likes per Channel per Category per Month**
+    - Create a pivot table to calculate the average number of likes for each channel within each category and month by extracting the month from the upload date.
+
+52. **Total Dislikes per Channel per Category per Month**
+    - Create a pivot table to sum the total dislikes for each channel within each category and month by extracting the month from the upload date.
+
+53. **Total Comments per Channel per Category per Month**
+    - Create a pivot table to sum the total comments for each channel within each category and month by extracting the month from the upload date.
+
+54. **Average Duration of Videos per Channel per Category per Month**
+    - Create a pivot table to calculate the average duration of videos for each channel within each category and month by extracting the month from the upload date.
+
+55. **Total Views for Videos Shorter than 5 Minutes per Channel**
+    - Create a pivot table to sum the total views for videos with a duration shorter than 5 minutes for each channel.
+
+56. **Total Likes for Videos Shorter than 5 Minutes per Channel**
+    - Create a pivot table to sum the total likes for videos with a duration shorter than 5 minutes for each channel.
+
+57. **Total Dislikes for Videos Shorter than 5 Minutes per Channel**
+    - Create a pivot table to sum the total dislikes for videos with a duration shorter than 5 minutes for each channel.
+
+58. **Total Comments for Videos Shorter than 5 Minutes per Channel**
+    - Create a pivot table to sum the total comments for videos with a duration shorter than 5 minutes for each channel.
+
+59. **Average Duration of Videos Shorter than 5 Minutes per Channel**
+    - Create a pivot table to calculate the average duration of videos shorter than 5 minutes for each channel.
+
+60. **Total Views for Videos Longer than 10 Minutes per Channel**
+    - Create a pivot table to sum the total views for videos with a duration longer than 10 minutes for each channel.
+
+61. **Total Likes for Videos Longer than 10 Minutes per Channel**
+    - Create a pivot table to sum the total likes for videos with a duration longer than 10 minutes for each channel.
+
+62. **Total Dislikes for Videos Longer than 10 Minutes per Channel**
+    - Create a pivot table to sum the total dislikes for videos with a duration longer than 10 minutes for each channel.
+
+63. **Total Comments for Videos Longer than 10 Minutes per Channel**
+    - Create a pivot table to sum the total comments for videos with a duration longer than 10 minutes for each channel.
+
+64. **Average Duration of Videos Longer than 10 Minutes per Channel**
+    - Create a pivot table to calculate the average duration of videos longer than 10 minutes for each channel.
+
+65. **Total Views for Each Channel per Year per Category**
+    - Create a pivot table to sum the total views for each channel within each year and category by extracting the year from the upload date.
+
+66. **Average Likes per Channel per Year per Category**
+    - Create a pivot table to calculate the average number of likes for each channel within each year and category by extracting the year from the upload date.
+
+67. **Total Dislikes per Channel per Year per Category**
+    - Create a pivot table to sum the total dislikes for each channel within each year and category by extracting the year from the upload date.
+
+68. **Total Comments per Channel per Year per Category**
+    - Create a pivot table to sum the total comments for each channel within each year and category by extracting the year from the upload date.
+
+69. **Average Duration of Videos per Channel per Year per Category**
+    - Create a pivot table to calculate the average duration of videos for each channel within each year and category by extracting the year from the upload date.
+
+70. **Total Views for Videos Shorter than 5 Minutes per Category**
+    - Create a pivot table to sum the total views for videos with a duration shorter than 5 minutes for each category.
+
+71. **Total Likes for Videos Shorter than 5 Minutes per Category**
+    - Create a pivot table to sum the total likes for videos with a duration shorter than 5 minutes for each category.
+
+72. **Total Dislikes for Videos Shorter than 5 Minutes per Category**
+    - Create a pivot
+
+ table to sum the total dislikes for videos with a duration shorter than 5 minutes for each category.
+
+73. **Total Comments for Videos Shorter than 5 Minutes per Category**
+    - Create a pivot table to sum the total comments for videos with a duration shorter than 5 minutes for each category.
+
+74. **Average Duration of Videos Shorter than 5 Minutes per Category**
+    - Create a pivot table to calculate the average duration of videos shorter than 5 minutes for each category.
+
+75. **Total Views for Videos Longer than 10 Minutes per Category**
+    - Create a pivot table to sum the total views for videos with a duration longer than 10 minutes for each category.
+
+76. **Total Likes for Videos Longer than 10 Minutes per Category**
+    - Create a pivot table to sum the total likes for videos with a duration longer than 10 minutes for each category.
+
+77. **Total Dislikes for Videos Longer than 10 Minutes per Category**
+    - Create a pivot table to sum the total dislikes for videos with a duration longer than 10 minutes for each category.
+
+78. **Total Comments for Videos Longer than 10 Minutes per Category**
+    - Create a pivot table to sum the total comments for videos with a duration longer than 10 minutes for each category.
+
+79. **Average Duration of Videos Longer than 10 Minutes per Category**
+    - Create a pivot table to calculate the average duration of videos longer than 10 minutes for each category.
+
+80. **Total Views for Each Category per Year**
+    - Create a pivot table to sum the total views for each category within each year by extracting the year from the upload date.
+
+81. **Average Likes per Category per Year**
+    - Create a pivot table to calculate the average number of likes for each category within each year by extracting the year from the upload date.
+
+82. **Total Dislikes per Category per Year**
+    - Create a pivot table to sum the total dislikes for each category within each year by extracting the year from the upload date.
+
+83. **Total Comments per Category per Year**
+    - Create a pivot table to sum the total comments for each category within each year by extracting the year from the upload date.
+
+84. **Average Duration of Videos per Category per Year**
+    - Create a pivot table to calculate the average duration of videos for each category within each year by extracting the year from the upload date.
+
+85. **Total Views per Channel per Year per Month**
+    - Create a pivot table to sum the total views for each channel within each year and month by extracting the year and month from the upload date.
+
+86. **Average Likes per Channel per Year per Month**
+    - Create a pivot table to calculate the average number of likes for each channel within each year and month by extracting the year and month from the upload date.
+
+87. **Total Dislikes per Channel per Year per Month**
+    - Create a pivot table to sum the total dislikes for each channel within each year and month by extracting the year and month from the upload date.
+
+88. **Total Comments per Channel per Year per Month**
+    - Create a pivot table to sum the total comments for each channel within each year and month by extracting the year and month from the upload date.
+
+89. **Average Duration of Videos per Channel per Year per Month**
+    - Create a pivot table to calculate the average duration of videos for each channel within each year and month by extracting the year and month from the upload date.
+
+90. **Total Views for Videos Longer than 15 Minutes per Channel per Month**
+    - Create a pivot table to sum the total views for videos with a duration longer than 15 minutes for each channel within each month by extracting the month from the upload date.
+
+91. **Total Likes for Videos Longer than 15 Minutes per Channel per Month**
+    - Create a pivot table to sum the total likes for videos with a duration longer than 15 minutes for each channel within each month by extracting the month from the upload date.
+
+92. **Total Dislikes for Videos Longer than 15 Minutes per Channel per Month**
+    - Create a pivot table to sum the total dislikes for videos with a duration longer than 15 minutes for each channel within each month by extracting the month from the upload date.
+
+93. **Total Comments for Videos Longer than 15 Minutes per Channel per Month**
+    - Create a pivot table to sum the total comments for videos with a duration longer than 15 minutes for each channel within each month by extracting the month from the upload date.
+
+94. **Average Duration of Videos Longer than 15 Minutes per Channel per Month**
+    - Create a pivot table to calculate the average duration of videos longer than 15 minutes for each channel within each month by extracting the month from the upload date.
+
+95. **Total Views for Each Channel per Category per Year**
+    - Create a pivot table to sum the total views for each channel within each category and year by extracting the year from the upload date.
+
+96. **Average Likes per Channel per Category per Year**
+    - Create a pivot table to calculate the average number of likes for each channel within each category and year by extracting the year from the upload date.
+
+97. **Total Dislikes per Channel per Category per Year**
+    - Create a pivot table to sum the total dislikes for each channel within each category and year by extracting the year from the upload date.
+
+98. **Total Comments per Channel per Category per Year**
+    - Create a pivot table to sum the total comments for each channel within each category and year by extracting the year from the upload date.
+
+99. **Average Duration of Videos per Channel per Category per Year**
+    - Create a pivot table to calculate the average duration of videos for each channel within each category and year by extracting the year from the upload date.
+
+100. **Total Views for Videos Longer than 5 Minutes per Channel per Year**
+    - Create a pivot table to sum the total views for videos with a duration longer than 5 minutes for each channel within each year by extracting the year from the upload date.
+
+### Example for Question 1: Total Views per Category
+
+1. **Select the data range** in your dataset.
+2. **Go to Insert** > **PivotTable**.
+3. In the **PivotTable Field List**:
+   - Drag **Category** to the **Rows** area.
+   - Drag **Views** to the **Values** area and ensure it is set to **Sum**.
+4. The pivot table will show the total views for each category.
