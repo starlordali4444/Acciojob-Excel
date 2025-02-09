@@ -2,6 +2,9 @@
 
 https://raw.githubusercontent.com/starlordali4444/Acciojob-Excel/refs/heads/master/Batch/15/In_Class/data/excel_dataset.xlsx
 
+## Retail Project demo link
+https://github.com/sayyed-shiraj-ali/Dynamic-Retail-Dashboard
+
 
 ## Data Cleaning Email
 
