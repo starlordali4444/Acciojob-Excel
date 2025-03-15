@@ -1,0 +1,501 @@
+Order ID,Product Category,Customer Region,Payment Method,Order Status,Customer Age Group,Shipping Method,Product Type,Discount Applied,Sales Channel,Order Date,Order Total ($),Quantity Ordered,Shipping Cost ($),Discount Value ($),Order Processing Time (hrs)
+242b1230-0e9c-456e-918f-ba3df47e52a5,Food,West,Cash,Pending,55+,Standard,Chair,No,Online,2024-11-05,409.89,5,47.37,10.67,43
+b384129a-6a70-43e4-8595-91efd9122042,Food,North,Credit Card,Completed,45-54,Express,Food Item,No,Online,2024-11-03,118.35,6,36.79,29.2,27
+6bdd4f2c-5386-44ce-802d-047cf9f7ee1c,Toys,North,Cash,Shipped,35-44,Standard,T-shirt,Yes,In-store,2024-11-01,398.59,5,31.22,27.77,41
+bc7e67ae-00fb-489e-967e-98cf3a1a491c,Furniture,South,PayPal,Pending,18-24,Same Day,T-shirt,No,In-store,2024-11-04,113.88,7,48.33,45.1,10
+ad289f37-6e8d-4cb0-8c61-74366023295b,Furniture,North,PayPal,Pending,35-44,Same Day,Chair,No,Online,2024-11-03,13.88,10,7.09,38.26,45
+4faf316e-2b0e-40bc-89a7-bbbc4d07caa0,Clothing,West,Credit Card,Shipped,25-34,Standard,Smartphone,Yes,Online,2024-11-03,361.3,1,41.15,8.61,44
+770689bf-f87b-4e6f-b616-2538fe75c512,Electronics,East,Credit Card,Pending,25-34,Same Day,Chair,Yes,In-store,2024-11-02,272.58,5,42.21,23.56,35
+fc88b8c1-5865-4c97-81de-86966f3bd352,Food,East,PayPal,Completed,25-34,Express,T-shirt,No,In-store,2024-11-01,305.05,4,14.82,49.65,40
+2ba733d2-18e5-42b1-8c40-e15b8096d6fb,Food,North,PayPal,Pending,18-24,Standard,Food Item,Yes,Online,2024-11-03,269.66,4,40.2,16.38,19
+16252296-3ee4-48c2-ab0a-521dc1e8ab9f,Furniture,North,PayPal,Shipped,35-44,Same Day,Chair,No,In-store,2024-11-01,393.2,1,13.1,40.54,10
+201a93f3-fb98-43ef-8bc9-f5ac241f8173,Electronics,West,Credit Card,Shipped,35-44,Same Day,Laptop,No,Online,2024-11-01,299.2,7,24.56,4.86,25
+878ec5a2-8743-412e-a65c-f2eb22b89e9c,Furniture,East,PayPal,Shipped,18-24,Standard,Food Item,No,In-store,2024-11-03,352.69,6,36.24,49.99,36
+2e92a196-6c65-41b3-a980-e4e89c7862f9,Toys,East,Cash,Completed,25-34,Standard,T-shirt,Yes,Online,2024-11-04,317.05,5,16.72,24.65,42
+21e75635-e6bf-409b-9f4a-bc1dc671c32e,Food,East,PayPal,Pending,18-24,Same Day,Laptop,Yes,In-store,2024-11-01,457.37,9,14.65,22.59,15
+37dfa87b-402e-422c-88f8-cb88f3f4b024,Furniture,West,Cash,Shipped,35-44,Express,Smartphone,No,In-store,2024-11-04,29.12,3,22.44,22.83,34
+fb319205-d497-4d3d-a964-a96366a425d1,Electronics,North,Credit Card,Completed,25-34,Same Day,Food Item,Yes,In-store,2024-11-04,23.12,6,11.01,43.68,16
+51551050-3808-4c84-9bf9-7c622e1c74eb,Electronics,North,Credit Card,Completed,55+,Standard,Laptop,No,Online,2024-11-05,471.27,7,47.99,45.28,39
+55737be0-0423-4cf9-b7d4-fa517220c811,Food,North,Cash,Completed,45-54,Standard,Food Item,No,Online,2024-11-01,370.82,5,30.64,3.34,16
+9f43dab2-f68b-4f3b-b05d-5f880296d0ed,Clothing,West,Credit Card,Completed,55+,Standard,T-shirt,No,In-store,2024-11-03,219.54,1,22.41,32.86,32
+f2b57a43-c155-4079-84ca-4f1282f16f39,Clothing,North,Credit Card,Shipped,25-34,Standard,T-shirt,Yes,Online,2024-11-03,64.0,7,16.86,48.69,40
+c9478fe5-4bab-4324-b4d1-26b3baef62b8,Furniture,East,Credit Card,Pending,45-54,Express,Laptop,Yes,Online,2024-11-01,348.24,10,40.28,23.18,17
+2aa95223-edeb-493f-ae0d-6aacbadba31c,Food,North,Credit Card,Completed,55+,Same Day,Smartphone,No,In-store,2024-11-01,204.01,10,36.43,6.89,32
+65eb1ad2-adf3-4870-9a81-6f59bd569f17,Clothing,West,Credit Card,Completed,35-44,Express,Food Item,No,Online,2024-11-05,498.36,6,45.57,0.26,5
+a92e76bc-b58e-4ba3-9076-b83d209a30d0,Food,South,Credit Card,Completed,45-54,Standard,T-shirt,Yes,Online,2024-11-03,385.1,6,16.17,26.43,40
+198237ea-a54d-4ae6-be42-c1a57c397e97,Food,West,Credit Card,Pending,55+,Express,Chair,Yes,Online,2024-11-04,56.21,3,46.82,25.8,31
+77ccf486-8592-41f0-9091-656597da81a2,Toys,East,Credit Card,Shipped,35-44,Express,Food Item,No,Online,2024-11-05,490.54,10,20.8,3.13,4
+afefd6d4-8d7b-4b49-b3f8-f63f5f7027f3,Clothing,North,Cash,Shipped,35-44,Same Day,T-shirt,Yes,In-store,2024-11-01,404.47,9,33.96,31.69,11
+a8b5faa5-7769-4f81-8edb-4b2a574a52b9,Toys,North,PayPal,Shipped,55+,Express,Smartphone,Yes,In-store,2024-11-05,476.17,6,37.51,4.2,37
+029762cd-14df-4a37-a988-e0357a386e2c,Electronics,North,PayPal,Completed,45-54,Express,Laptop,Yes,In-store,2024-11-02,317.24,4,11.75,45.76,47
+14c95afe-13cf-4a01-a2f9-b7ec98dca4ee,Electronics,East,PayPal,Completed,18-24,Same Day,Laptop,No,Online,2024-11-01,187.72,1,16.8,4.59,2
+5d236595-a6f7-4368-925a-92c5d7ed5e64,Food,South,PayPal,Completed,18-24,Same Day,Smartphone,Yes,In-store,2024-11-01,394.74,4,37.1,41.02,9
+852fa264-322d-43b1-b60f-b2cd3a89b0de,Clothing,East,Credit Card,Shipped,25-34,Express,Smartphone,No,Online,2024-11-05,346.19,6,30.1,34.51,29
+21577095-d67f-40d9-8f32-9088749addc7,Food,West,Cash,Completed,35-44,Standard,Smartphone,Yes,In-store,2024-11-04,117.91,10,45.22,3.95,14
+a592697c-dc55-4d45-b03c-9c194116ab84,Food,South,Cash,Shipped,45-54,Standard,Food Item,No,Online,2024-11-04,85.07,5,9.4,39.88,16
+1c534b91-15de-47f4-b4d9-64fed1716edb,Furniture,East,PayPal,Shipped,45-54,Standard,T-shirt,Yes,In-store,2024-11-01,181.15,6,5.36,25.12,5
+b04a8a1d-94c3-492f-883a-3d36350d939c,Toys,South,Credit Card,Completed,35-44,Same Day,Chair,Yes,Online,2024-11-03,498.56,4,29.71,47.62,2
+7d9333cf-c97e-409f-bebd-60e90b8df038,Clothing,West,Credit Card,Completed,55+,Same Day,Laptop,No,In-store,2024-11-03,478.69,5,24.73,27.95,8
+c7538428-e4f9-4475-a6f2-c34a228ca7a2,Electronics,East,Credit Card,Pending,45-54,Standard,T-shirt,No,Online,2024-11-01,40.68,10,18.08,17.08,20
+8baa8159-eaa5-4692-a378-76b50209366f,Furniture,West,Credit Card,Completed,25-34,Express,Smartphone,No,Online,2024-11-02,109.25,1,5.05,10.85,15
+dc302ceb-103f-4481-b4b9-422098869929,Furniture,South,Cash,Pending,35-44,Standard,Food Item,Yes,Online,2024-11-03,48.64,10,14.22,3.44,6
+212838bc-340e-4904-8778-be25a802dd61,Food,West,PayPal,Shipped,25-34,Same Day,Laptop,Yes,In-store,2024-11-03,173.14,4,26.74,47.0,31
+37aa141b-cf87-4c7c-a9f1-1dbbea780f9b,Food,South,PayPal,Pending,25-34,Express,Chair,No,In-store,2024-11-05,427.86,3,28.08,31.19,15
+f4899bf6-13ae-46bb-9bb2-66433aa31f1a,Electronics,East,Credit Card,Shipped,35-44,Standard,Chair,No,Online,2024-11-05,237.09,9,32.69,19.77,33
+74fdf4a5-678e-4d2a-8696-d3503dc1c155,Clothing,East,Cash,Completed,35-44,Standard,Smartphone,Yes,Online,2024-11-03,372.72,2,46.86,40.14,19
+435eb7e9-6b13-499c-890b-00571c7ea45c,Clothing,North,Credit Card,Shipped,45-54,Same Day,Chair,Yes,In-store,2024-11-02,281.49,3,45.72,38.79,30
+018fd2dd-3dcb-47f1-b519-531c5a5ef146,Furniture,South,PayPal,Completed,45-54,Express,Smartphone,Yes,Online,2024-11-01,344.44,5,10.03,45.25,31
+94bbb8b7-a14d-4358-93de-97fb2cee22ce,Electronics,East,Cash,Pending,35-44,Same Day,T-shirt,No,In-store,2024-11-05,90.97,6,26.89,3.75,10
+e5b59f51-12f0-4ba9-8ad8-03505e0e5f68,Food,West,Cash,Pending,25-34,Express,Food Item,No,Online,2024-11-04,251.65,3,39.41,2.24,16
+6e2e5682-05ee-4c6d-964e-64bb3c3b05af,Electronics,South,Credit Card,Completed,25-34,Same Day,Laptop,Yes,In-store,2024-11-03,86.4,7,16.11,9.32,44
+79af77e5-1d9f-4a7a-a2df-f716d39d86d6,Electronics,East,Credit Card,Completed,35-44,Express,Smartphone,No,In-store,2024-11-01,14.76,3,13.33,49.21,45
+80cb17e1-327d-4896-9ec1-5b910746ef2c,Toys,North,Credit Card,Completed,55+,Same Day,Laptop,No,Online,2024-11-03,152.07,2,34.45,31.04,40
+43c0b72a-98af-4285-b45f-4a79ce0efa4e,Clothing,East,Cash,Shipped,45-54,Same Day,T-shirt,No,Online,2024-11-03,184.32,8,8.24,31.94,44
+e32f347e-1eea-4220-b130-b7abfe7aa453,Toys,North,Credit Card,Pending,25-34,Same Day,T-shirt,Yes,Online,2024-11-05,63.52,7,12.9,36.07,5
+30c6cf81-f6a4-4ba4-8fe8-78075df631ee,Electronics,North,Credit Card,Shipped,25-34,Same Day,Food Item,Yes,Online,2024-11-05,266.69,1,34.47,10.21,31
+f6a969a5-9ba9-4a3b-8a6b-1feba6612c2a,Food,East,PayPal,Completed,25-34,Express,Chair,No,In-store,2024-11-05,140.07,7,43.11,6.26,45
+72aa8bf0-a93a-4fc6-af5b-fef8f0f18656,Electronics,North,PayPal,Completed,35-44,Same Day,Laptop,Yes,In-store,2024-11-01,188.54,7,45.35,33.67,30
+dd0dcaa2-4ba0-48d1-84a2-cca2914d233f,Food,North,Cash,Completed,55+,Same Day,Chair,Yes,In-store,2024-11-01,109.52,1,33.24,33.12,1
+70ade998-5104-4f9a-8c77-7b954084955d,Food,South,Cash,Shipped,18-24,Standard,T-shirt,No,Online,2024-11-01,14.07,8,6.8,48.11,9
+089d5e12-20ff-4205-be26-7695a71985e8,Furniture,East,Credit Card,Completed,25-34,Express,Food Item,No,Online,2024-11-01,461.37,5,13.95,47.55,48
+31c1646c-23a1-4721-8685-c6e51ef7b0ae,Toys,West,Cash,Pending,55+,Standard,Smartphone,No,In-store,2024-11-02,66.48,6,20.7,17.98,20
+e63b2e11-c8ec-4796-9483-534e683809d9,Electronics,South,Credit Card,Pending,25-34,Standard,Laptop,Yes,Online,2024-11-05,85.29,1,13.79,41.89,36
+5765f627-d5db-4cb6-893e-691813c5dec1,Furniture,East,Credit Card,Completed,45-54,Same Day,Smartphone,Yes,In-store,2024-11-04,200.88,9,11.53,43.99,30
+c27405f3-c4a1-424a-b130-4f0d81bc49d1,Food,East,Credit Card,Shipped,25-34,Express,Laptop,Yes,In-store,2024-11-03,197.08,10,6.67,37.51,1
+265f7010-c901-4811-a310-7f98beea61e0,Electronics,North,Cash,Completed,18-24,Standard,Chair,Yes,Online,2024-11-03,289.07,3,33.33,23.66,8
+9e08939e-ea3f-4fba-b2bf-24e300201b3c,Food,North,PayPal,Pending,45-54,Express,Laptop,No,In-store,2024-11-04,423.53,8,44.87,40.18,6
+9926bcdf-df46-4b15-bc16-eaee6a36a911,Food,North,Cash,Completed,18-24,Standard,Chair,No,In-store,2024-11-02,258.06,4,12.24,26.97,12
+5c15a296-dd9b-4d96-8eb1-4bdc3552022c,Toys,South,Cash,Pending,35-44,Express,Food Item,Yes,Online,2024-11-04,287.29,5,24.02,46.11,30
+8289611b-d5a0-4eb4-bce7-1d81763c69c7,Toys,North,PayPal,Pending,25-34,Same Day,Chair,No,In-store,2024-11-01,287.14,1,5.55,23.7,32
+8483dc39-fba8-4dd6-a523-fae2fd00c937,Clothing,West,Cash,Pending,35-44,Same Day,Chair,Yes,In-store,2024-11-03,119.54,5,11.81,43.83,38
+e54035a5-b0f6-4be6-b35a-238724d94875,Toys,South,Cash,Shipped,18-24,Standard,Chair,No,Online,2024-11-01,450.35,7,14.07,41.61,36
+a22b6df2-bea8-42ed-9d2a-41e60b27d4c3,Furniture,South,PayPal,Completed,35-44,Same Day,Food Item,Yes,Online,2024-11-02,364.57,8,25.01,11.73,34
+cf0b5de3-5922-422b-9301-66d7ec227a85,Toys,North,PayPal,Completed,55+,Standard,Laptop,No,Online,2024-11-01,346.94,5,35.65,9.18,21
+7b70ecfa-6c20-41e8-8dbc-5fdf598dd733,Furniture,West,Cash,Completed,55+,Standard,Smartphone,No,Online,2024-11-05,199.31,9,39.76,23.26,46
+c86cb54d-6acb-44a9-944a-cf3ddac62c61,Toys,East,Cash,Shipped,25-34,Standard,T-shirt,No,In-store,2024-11-02,479.74,5,19.57,9.66,33
+d5be3439-0689-4f7f-8cc0-95eeb904aa5d,Toys,West,Credit Card,Completed,35-44,Standard,Food Item,Yes,In-store,2024-11-03,354.72,9,24.8,20.33,25
+17176dea-f264-412f-950d-0e5a48753d1c,Electronics,West,Cash,Completed,18-24,Standard,Chair,Yes,In-store,2024-11-03,203.01,1,26.72,28.56,6
+5f7be1b4-9428-438c-a236-0e0f2aa9c03e,Toys,North,Credit Card,Pending,35-44,Express,Laptop,No,In-store,2024-11-01,65.76,2,35.87,13.66,13
+fda7298e-b1bb-4748-bd76-1e019cf25ac2,Toys,South,Credit Card,Pending,18-24,Same Day,Chair,Yes,Online,2024-11-02,189.34,10,25.03,3.86,7
+3afcb0cd-7c8b-4763-bcbf-aa5f7f3662ad,Furniture,South,Cash,Pending,18-24,Same Day,Smartphone,No,In-store,2024-11-03,34.88,2,12.89,1.59,41
+5d9ae2e2-566b-4f27-b8d0-763724962f50,Furniture,South,Credit Card,Completed,25-34,Standard,T-shirt,No,In-store,2024-11-03,332.2,6,45.2,41.42,10
+f33fa8e2-18a4-4787-b444-02b4d202c7e1,Clothing,East,Credit Card,Completed,25-34,Same Day,Laptop,Yes,In-store,2024-11-05,248.89,8,30.77,15.78,8
+4c153bad-8a86-4788-84b3-86fedb38e0a2,Toys,South,Credit Card,Completed,35-44,Standard,T-shirt,Yes,In-store,2024-11-04,159.73,6,38.67,10.88,1
+79673581-78d6-4885-b278-50e03d0cb038,Electronics,South,PayPal,Shipped,55+,Standard,Smartphone,Yes,In-store,2024-11-04,491.93,9,29.62,25.71,3
+5408adfd-7d71-4cae-84d5-f6212692ef3c,Electronics,East,PayPal,Pending,18-24,Express,T-shirt,Yes,In-store,2024-11-03,447.96,7,20.88,40.42,36
+cc27a3cc-dc13-49d6-bac1-fe0a2bece477,Toys,East,Credit Card,Completed,25-34,Express,Laptop,No,In-store,2024-11-02,414.28,7,43.1,16.97,38
+214534f5-f51b-4c88-a435-ba84bfbb0962,Clothing,South,Cash,Completed,45-54,Standard,Smartphone,Yes,In-store,2024-11-01,264.79,8,19.83,9.27,21
+beeb1b1e-d091-41d1-8c49-beefd0b32a32,Electronics,North,Cash,Pending,25-34,Express,Chair,Yes,In-store,2024-11-04,32.33,4,37.81,8.38,45
+cc045ba5-efae-4cca-987e-afe9a30bc941,Electronics,North,PayPal,Completed,35-44,Standard,Food Item,No,Online,2024-11-02,303.29,2,21.95,36.24,25
+8a9d2208-ed21-4e9a-963d-e1de73445cec,Food,West,Cash,Pending,18-24,Express,Chair,Yes,In-store,2024-11-04,94.67,10,19.46,38.92,8
+d8f3c2e7-6802-456c-8534-95af90e24946,Furniture,West,Cash,Shipped,18-24,Same Day,Smartphone,No,Online,2024-11-01,451.91,1,41.68,40.35,9
+caf5b558-3314-47cd-bee3-c8e18b7a17f6,Toys,West,Credit Card,Shipped,45-54,Express,T-shirt,No,In-store,2024-11-02,332.35,6,9.96,43.89,3
+45b98865-b13f-47d6-92d6-5db1d6078a45,Electronics,West,Credit Card,Completed,18-24,Standard,Laptop,Yes,In-store,2024-11-03,68.25,6,38.79,45.65,46
+9dbd485b-1bb3-4857-b222-e07109346847,Furniture,North,Cash,Completed,18-24,Express,T-shirt,No,In-store,2024-11-04,302.13,4,35.6,15.53,20
+754a46f1-7900-475a-8f79-d36ac2c3a3aa,Electronics,South,PayPal,Completed,55+,Standard,Smartphone,No,In-store,2024-11-01,198.77,1,40.66,5.25,4
+f2cd65f8-9a12-433f-a2d2-618889f71948,Furniture,South,Cash,Completed,35-44,Standard,Laptop,No,In-store,2024-11-01,469.71,9,20.5,12.38,13
+8549894a-b49a-4473-9475-066eab921c0f,Electronics,South,Credit Card,Pending,25-34,Standard,T-shirt,Yes,Online,2024-11-01,309.34,1,26.31,29.35,36
+b037253c-0869-4e4d-ab4e-393f8ec1c3f6,Toys,North,Credit Card,Completed,25-34,Express,Food Item,Yes,In-store,2024-11-05,187.07,4,42.41,13.76,4
+fc6ce5a7-b818-4392-b86f-4cdb674b0eec,Food,East,PayPal,Shipped,25-34,Standard,T-shirt,Yes,In-store,2024-11-03,231.15,5,37.58,23.16,7
+bf7ac399-5b87-4afd-8758-12bb79c10e9f,Furniture,North,PayPal,Shipped,18-24,Standard,T-shirt,No,In-store,2024-11-01,137.99,7,37.89,1.89,7
+b2ae8f59-23e7-4dba-bd03-b6d83ab0768f,Toys,East,PayPal,Completed,45-54,Standard,Chair,Yes,Online,2024-11-03,230.31,8,40.0,42.16,29
+51a3ebf4-aa27-4d83-895d-d8a734d9895d,Furniture,North,Cash,Completed,18-24,Express,Laptop,No,In-store,2024-11-01,126.61,4,24.55,5.14,39
+97524d9f-0312-4071-b37c-15b9ab791ca5,Toys,East,Credit Card,Pending,18-24,Same Day,Chair,Yes,Online,2024-11-02,225.73,6,34.48,34.0,19
+6dbb9b6b-48d4-4cee-bda2-8b61eb744b9f,Furniture,North,Cash,Shipped,35-44,Standard,Chair,Yes,Online,2024-11-03,339.82,8,46.65,35.21,41
+429a799d-4728-4b21-8c05-322f6adcc148,Food,East,PayPal,Pending,45-54,Same Day,Food Item,No,Online,2024-11-05,409.66,10,15.09,0.95,12
+c51c7442-0d26-4582-ba1e-98f3e9378068,Food,East,PayPal,Pending,25-34,Same Day,Laptop,No,Online,2024-11-04,141.58,1,38.62,47.06,36
+749d0e93-2454-4205-a157-5d7a1c4c9b2c,Food,South,Cash,Pending,55+,Express,Food Item,No,In-store,2024-11-02,323.76,10,8.81,39.31,44
+67f3b58f-27e8-45a0-b82d-339f28a793e8,Clothing,East,Credit Card,Shipped,55+,Same Day,Food Item,No,Online,2024-11-04,320.09,3,30.85,29.42,15
+b1ff60cb-10e6-4ea4-8752-e95af37ca4cb,Food,South,PayPal,Pending,25-34,Same Day,Food Item,No,In-store,2024-11-02,97.34,4,28.84,15.01,8
+5b9a5716-c825-4575-95e5-03a3b937db7a,Food,West,PayPal,Completed,35-44,Same Day,Laptop,Yes,In-store,2024-11-02,355.46,4,22.26,2.78,47
+80342726-7d44-4d68-b12f-b3e3d5cabea6,Clothing,North,Cash,Completed,35-44,Standard,Food Item,No,Online,2024-11-04,102.6,6,32.07,24.31,46
+a6c92d0e-4310-4029-9357-515cfcece101,Toys,North,Credit Card,Shipped,18-24,Same Day,Chair,Yes,In-store,2024-11-05,435.95,10,32.13,45.41,42
+8b557dce-6529-4a2e-9f7a-a18cf8e05f0f,Toys,North,Cash,Pending,25-34,Same Day,Food Item,Yes,In-store,2024-11-03,326.59,5,24.57,14.68,3
+5ede64d3-274e-44be-8d03-97159d9c81d9,Electronics,East,Credit Card,Completed,35-44,Same Day,T-shirt,No,Online,2024-11-01,373.89,10,27.64,1.85,7
+eee7d8cf-1014-4348-9d6a-a1819a2d7cee,Food,West,Credit Card,Pending,25-34,Same Day,Food Item,Yes,In-store,2024-11-04,209.22,6,28.46,33.31,3
+bb5d4e1f-c99d-4254-936d-221068d044d3,Furniture,West,Credit Card,Pending,45-54,Same Day,Food Item,Yes,Online,2024-11-02,284.94,2,40.22,4.54,39
+f142a1f0-965d-44bc-acb9-a401e8898d13,Food,East,PayPal,Shipped,55+,Same Day,Food Item,No,In-store,2024-11-04,437.61,4,25.75,24.97,1
+2bd9b101-be94-48de-b55f-6c98d4339b8d,Toys,West,Cash,Pending,55+,Express,T-shirt,No,In-store,2024-11-03,448.5,2,14.42,3.82,32
+514285db-3546-42ff-ab17-2fdc6cc49d5b,Clothing,West,PayPal,Pending,45-54,Same Day,Chair,Yes,Online,2024-11-03,496.95,8,25.06,13.76,7
+3b5cf57a-d630-4a03-9309-45daad2157a4,Furniture,West,PayPal,Completed,25-34,Same Day,T-shirt,Yes,Online,2024-11-02,40.45,4,20.0,20.46,20
+24a5d921-bfa7-4567-b411-867cfb0b8c2b,Toys,North,PayPal,Shipped,35-44,Express,Food Item,Yes,In-store,2024-11-04,168.27,3,14.99,47.66,39
+df06781f-42a9-42f1-8ce9-25503d03f114,Food,South,Cash,Completed,25-34,Express,Laptop,Yes,Online,2024-11-02,225.26,2,31.06,35.82,14
+1d73273b-d7f9-40d8-b64e-d9179a22f7f4,Electronics,West,Credit Card,Shipped,25-34,Standard,Laptop,Yes,Online,2024-11-02,289.41,6,26.65,10.9,42
+c40c81c4-f413-41e2-8323-336c9daa65c1,Electronics,West,Cash,Pending,55+,Express,Chair,No,Online,2024-11-02,361.1,7,40.74,14.42,19
+23b78106-a2ba-45c0-8af4-8b008f907d22,Food,North,Credit Card,Pending,55+,Same Day,Laptop,Yes,In-store,2024-11-01,460.67,6,36.34,14.94,36
+715acbda-d78b-47ec-95ae-43f2b1612618,Food,West,Credit Card,Completed,18-24,Standard,Laptop,No,In-store,2024-11-01,433.09,4,28.15,49.61,24
+6f830d07-f96d-48ef-8d9c-652119bb915a,Furniture,East,Credit Card,Shipped,35-44,Express,Smartphone,No,In-store,2024-11-04,232.83,5,44.72,15.15,15
+95d16e07-dd3f-466e-bf73-d2c912b06e62,Toys,North,Cash,Shipped,55+,Standard,Smartphone,No,In-store,2024-11-04,313.78,1,46.03,27.6,15
+1cfef50a-b060-440d-b76a-9ff51f9fb669,Food,South,Cash,Pending,25-34,Express,T-shirt,No,Online,2024-11-03,470.26,9,29.93,16.93,45
+c7d096c6-0c5d-49f0-8e70-3f2d0a007e61,Furniture,West,Cash,Completed,25-34,Same Day,Laptop,Yes,In-store,2024-11-01,33.33,5,7.49,46.87,25
+5655218b-5c5d-4797-92e7-868e4b993154,Food,North,Cash,Pending,25-34,Express,Laptop,Yes,Online,2024-11-02,152.37,3,34.39,31.59,4
+10613771-cee3-4342-8d7d-bcd8ff9b739b,Electronics,North,Credit Card,Shipped,18-24,Standard,T-shirt,Yes,In-store,2024-11-01,170.08,7,31.82,44.07,45
+1b117712-9d4b-44cf-9a4f-f480a7eb7e6e,Electronics,North,Credit Card,Completed,35-44,Same Day,Food Item,Yes,Online,2024-11-03,24.13,5,44.44,3.6,11
+5c15abbe-a29a-4065-a504-bfb603a5d840,Electronics,North,PayPal,Completed,18-24,Express,Chair,Yes,In-store,2024-11-01,175.66,5,19.56,19.74,44
+6dfe63a3-4eea-4eb0-b0ba-355982cbdabf,Furniture,West,PayPal,Shipped,25-34,Express,T-shirt,No,Online,2024-11-01,413.57,8,36.25,36.57,14
+0ec81e81-d79e-4eee-9269-46a1052e7d97,Toys,South,Credit Card,Pending,55+,Same Day,Smartphone,Yes,In-store,2024-11-05,216.0,1,17.39,33.2,24
+ff3159de-d1b9-4bd7-a199-67b601649a93,Clothing,East,Credit Card,Completed,45-54,Same Day,Chair,Yes,Online,2024-11-03,138.35,8,35.09,0.67,44
+76d16b0c-eb14-4eda-9d89-1922731d596d,Electronics,West,PayPal,Pending,45-54,Same Day,Laptop,No,Online,2024-11-01,410.85,1,35.71,20.43,2
+d36f2dc1-d5fb-4c9c-9ac3-fe9a307ea8ed,Clothing,North,PayPal,Pending,35-44,Same Day,Chair,Yes,Online,2024-11-05,485.71,1,21.62,22.85,43
+2ed87891-478e-4ad7-a177-6ae089b7c281,Electronics,East,Credit Card,Pending,55+,Same Day,Laptop,No,Online,2024-11-04,404.43,1,39.44,43.79,8
+c185d08e-354a-4de6-a3a4-a787385a95f8,Toys,North,Credit Card,Pending,18-24,Express,T-shirt,No,In-store,2024-11-01,284.61,5,27.21,46.7,24
+5183129e-b6c6-4507-9cf2-05e3110b3c44,Food,East,PayPal,Pending,55+,Express,Food Item,No,In-store,2024-11-01,268.01,1,30.24,8.08,33
+19e689f7-5abf-4c0a-aa49-a4ac3e15a2ca,Food,East,Credit Card,Completed,45-54,Standard,Smartphone,No,In-store,2024-11-05,398.58,10,27.8,11.18,18
+b3edc4ee-b870-46b3-9bc8-d665513490e0,Clothing,North,PayPal,Completed,25-34,Express,Smartphone,No,In-store,2024-11-03,346.14,6,42.59,21.31,32
+53881637-38eb-4c92-b9d0-c2cd0d2c0139,Toys,North,Cash,Pending,25-34,Same Day,Chair,Yes,In-store,2024-11-04,383.54,4,9.09,1.2,43
+772706e4-4deb-485f-8194-ffab724cec59,Clothing,East,PayPal,Pending,25-34,Same Day,T-shirt,Yes,In-store,2024-11-03,402.52,9,32.56,9.11,11
+9fe7ff9a-4846-46e5-8f44-7bfd419d0461,Clothing,West,PayPal,Completed,18-24,Express,Laptop,No,In-store,2024-11-04,346.51,9,43.67,23.57,41
+e86de466-3788-41d4-ab01-fe6b9614f5cf,Food,North,Credit Card,Pending,18-24,Standard,Food Item,No,In-store,2024-11-01,76.22,2,7.25,46.16,10
+9231769c-42cb-4779-83ea-624c01368499,Toys,West,Credit Card,Shipped,18-24,Same Day,Smartphone,No,Online,2024-11-03,31.15,4,46.54,29.73,40
+afb01ebf-b65b-4780-8a5b-ffbc6310eb67,Electronics,South,Credit Card,Completed,25-34,Same Day,Smartphone,No,In-store,2024-11-05,74.48,2,42.61,21.19,13
+7041a751-dfaf-4394-89eb-66038c9c27ce,Toys,South,Cash,Shipped,18-24,Same Day,Smartphone,Yes,In-store,2024-11-02,17.88,7,14.32,42.47,24
+967bb88e-72c3-4299-85b5-d4ccaeb07b60,Electronics,South,Credit Card,Shipped,35-44,Express,T-shirt,Yes,Online,2024-11-03,291.52,2,20.71,43.94,38
+d71123b0-d441-4064-a35f-1911009f9715,Furniture,East,Cash,Shipped,45-54,Express,Smartphone,No,In-store,2024-11-05,490.21,7,16.41,16.49,22
+ecdd31bf-90a1-4994-9671-c56e0f0a2997,Clothing,South,PayPal,Pending,35-44,Standard,T-shirt,Yes,Online,2024-11-04,141.89,9,27.63,17.09,46
+881a1ff6-e91d-412e-87d4-1f0cdd655f70,Clothing,North,Cash,Shipped,55+,Express,Smartphone,No,In-store,2024-11-03,132.95,2,33.28,29.23,5
+a0e4f877-9f09-4f43-a146-4997e5ddc631,Furniture,North,Cash,Shipped,35-44,Standard,Laptop,Yes,In-store,2024-11-04,220.47,7,37.61,31.11,31
+c5fec748-fa18-4174-963b-5affd990e0ad,Food,East,Cash,Completed,18-24,Same Day,Laptop,Yes,In-store,2024-11-03,303.36,1,31.3,43.51,24
+da91b84c-faea-491c-b881-604726bca7d1,Furniture,West,PayPal,Shipped,35-44,Standard,T-shirt,Yes,Online,2024-11-05,21.77,3,38.09,5.55,19
+1e2ae181-4b37-4eac-bb21-d17ec158df2a,Toys,North,Credit Card,Shipped,35-44,Standard,Smartphone,No,In-store,2024-11-03,173.92,1,40.49,12.41,2
+a90ac904-6257-4bba-92b7-38868ea8407e,Electronics,North,PayPal,Completed,55+,Same Day,Laptop,No,In-store,2024-11-03,454.9,3,35.5,13.58,44
+4486f3fe-e532-4151-bba4-e92b2633af2d,Clothing,North,Credit Card,Pending,25-34,Standard,Chair,No,Online,2024-11-02,126.49,10,39.73,21.39,12
+9db1fcb0-abac-41e7-bbb5-06069df3310c,Furniture,West,Cash,Shipped,25-34,Same Day,Laptop,No,Online,2024-11-01,22.75,9,21.85,43.81,17
+3c256fb1-3d6a-4a5d-9756-8be134ddf7a0,Clothing,South,Cash,Pending,25-34,Same Day,Food Item,Yes,In-store,2024-11-01,179.83,7,6.47,26.2,44
+9bb57e62-01fb-4475-92c5-53d9fb648fa1,Food,West,PayPal,Completed,35-44,Standard,Smartphone,Yes,Online,2024-11-02,231.81,5,13.92,40.98,48
+8d6d20e9-a1ff-4f3d-b61e-c853eddd809a,Food,West,PayPal,Completed,55+,Express,Chair,No,In-store,2024-11-03,20.63,6,28.12,21.96,15
+72c8fd37-8bf2-4e15-869c-717e4412a86f,Toys,South,PayPal,Completed,25-34,Standard,T-shirt,Yes,In-store,2024-11-01,366.69,3,47.99,0.48,40
+37f58a5a-0442-43e6-a12b-084b5208f6be,Toys,West,PayPal,Shipped,35-44,Standard,Laptop,Yes,Online,2024-11-03,180.57,6,10.46,35.33,20
+a9d4b3d6-5721-4710-a8b2-a6d1ed29df84,Clothing,East,Cash,Completed,55+,Same Day,Food Item,Yes,In-store,2024-11-04,367.62,5,6.95,39.63,18
+7032d341-8831-4199-995c-eb45614e6d64,Clothing,West,Cash,Pending,35-44,Same Day,T-shirt,Yes,In-store,2024-11-03,30.65,8,30.72,43.06,16
+64e06a5f-6f65-4812-baee-754343b0d1fa,Toys,East,Credit Card,Shipped,45-54,Standard,Food Item,No,Online,2024-11-02,125.89,3,8.51,4.54,8
+ecd9337f-81b6-4d2f-8429-b0b4a665a1eb,Toys,East,PayPal,Completed,25-34,Standard,T-shirt,No,In-store,2024-11-05,425.25,1,33.86,19.37,42
+a21ba114-db99-4656-9d7d-a58858ce7cfa,Clothing,East,PayPal,Completed,55+,Express,Smartphone,No,In-store,2024-11-02,470.88,2,41.15,26.47,17
+f203384e-6858-49b3-9acf-93c58524dfd6,Clothing,East,Credit Card,Pending,35-44,Express,Chair,No,In-store,2024-11-01,116.21,8,28.45,14.18,37
+a83fea82-8cf1-4dde-a297-0c04abfdd0d7,Toys,West,Cash,Pending,25-34,Same Day,T-shirt,Yes,Online,2024-11-01,350.83,7,38.71,6.89,38
+373ff381-2750-4d34-ab8c-6269b5b45670,Toys,East,Credit Card,Pending,45-54,Express,Chair,No,Online,2024-11-02,152.03,10,12.08,19.14,43
+5d6a8d34-bb19-497c-8d97-61c7f3db10a9,Furniture,West,PayPal,Shipped,25-34,Express,Chair,Yes,Online,2024-11-04,38.54,3,15.01,15.17,4
+de21d6e9-32f0-48af-9404-0ed176fe6bb7,Food,South,PayPal,Pending,25-34,Express,Chair,Yes,Online,2024-11-02,427.23,4,16.52,39.96,26
+7a2b9bc2-1406-439a-951c-23e7cb126dbf,Furniture,South,Credit Card,Pending,35-44,Same Day,Smartphone,No,In-store,2024-11-05,248.98,3,36.05,33.33,38
+a9f666e9-f0ff-4aac-b8d5-140cb3390eba,Furniture,East,Cash,Shipped,18-24,Express,Food Item,No,Online,2024-11-04,351.03,7,18.98,24.61,25
+98184556-ca36-4b3e-8c36-8be42da7e218,Clothing,South,Credit Card,Pending,45-54,Express,Laptop,No,Online,2024-11-02,320.63,2,37.96,28.61,43
+dcb89d64-a2fb-4e8b-87d3-0b3b71ba61da,Toys,South,PayPal,Pending,18-24,Same Day,T-shirt,Yes,In-store,2024-11-04,185.0,6,19.21,20.02,5
+54b68d0e-2e11-4f63-b7be-7152e2e52e17,Clothing,East,Credit Card,Pending,35-44,Standard,T-shirt,No,In-store,2024-11-01,278.18,10,29.76,37.49,1
+2b5aac35-9204-4fbe-bb60-84d51b7165ec,Furniture,North,Credit Card,Pending,18-24,Standard,T-shirt,Yes,In-store,2024-11-05,221.31,10,38.8,41.17,38
+d4d5048e-a908-4ebb-80a0-921eeb7a39b8,Clothing,West,Credit Card,Pending,18-24,Express,Laptop,Yes,In-store,2024-11-03,375.33,9,23.0,23.42,18
+527c6089-7914-483b-b9d7-02b9782e8f19,Toys,East,Credit Card,Completed,18-24,Standard,Food Item,No,In-store,2024-11-04,113.9,1,31.27,3.06,8
+b4f5d1b9-0b2d-49ca-8aad-253e54c9fff6,Toys,West,Credit Card,Completed,35-44,Express,Food Item,Yes,In-store,2024-11-05,307.35,3,14.44,42.79,35
+5910c5f9-4f08-4f5f-a3c3-c4a70262bf00,Furniture,West,PayPal,Pending,45-54,Standard,Smartphone,No,Online,2024-11-05,430.98,6,21.24,28.07,11
+98677d13-7979-466e-9199-44cca736cc13,Electronics,West,Credit Card,Completed,35-44,Express,Chair,Yes,Online,2024-11-03,468.75,3,10.69,39.36,21
+153e2aeb-8890-4c53-981c-60a9a30ec42a,Food,South,Credit Card,Completed,45-54,Standard,Chair,No,Online,2024-11-05,222.47,1,41.16,34.93,27
+2f330b8c-238f-401c-bd22-72bfdd7fc5ee,Clothing,South,Credit Card,Pending,25-34,Standard,Food Item,No,Online,2024-11-01,45.21,9,5.74,14.04,12
+390058ce-9d48-4fe5-8cae-92c03e7fc4e3,Toys,South,Credit Card,Completed,55+,Same Day,T-shirt,Yes,In-store,2024-11-04,73.57,3,33.23,23.17,2
+fe704ca6-f264-4347-ad6a-5298aa6b0240,Furniture,North,Credit Card,Completed,45-54,Standard,Chair,Yes,Online,2024-11-02,143.8,8,46.61,35.49,11
+c2f647da-8d14-4cb1-a987-57eea66df575,Clothing,West,Cash,Completed,45-54,Same Day,T-shirt,No,In-store,2024-11-03,120.17,4,18.6,10.0,20
+08617072-658d-44ad-b2b6-1274b20b4038,Clothing,North,Cash,Completed,45-54,Standard,Food Item,No,Online,2024-11-03,194.18,2,36.77,2.47,34
+a6530f50-36ed-4cfd-9985-11524fa0981a,Electronics,South,PayPal,Shipped,55+,Same Day,Laptop,No,In-store,2024-11-01,97.87,9,28.65,47.28,29
+54c13f11-e876-4e1e-a7df-72c855aa07fc,Food,East,PayPal,Pending,45-54,Standard,Laptop,No,Online,2024-11-04,238.62,5,26.51,11.32,10
+a66464ce-0334-4290-add7-cccf59ef7f88,Furniture,East,Credit Card,Shipped,25-34,Express,Food Item,No,Online,2024-11-05,265.01,7,17.6,31.06,17
+9c2e64cf-bbfb-4ea3-8c1b-cd386e5eafc4,Toys,West,PayPal,Completed,25-34,Same Day,Laptop,No,In-store,2024-11-01,358.7,2,13.99,30.06,7
+ab27b696-8967-4156-882d-3d7af2fc390a,Clothing,North,Cash,Completed,35-44,Standard,Food Item,Yes,In-store,2024-11-04,179.12,8,37.89,1.75,31
+f660a22e-c920-4ee5-8adc-ed3aec61bcb1,Toys,East,PayPal,Pending,45-54,Express,T-shirt,Yes,Online,2024-11-03,97.29,1,18.88,32.8,10
+f4e31e2b-0a42-4f81-8d07-49ca311e80ea,Electronics,West,Credit Card,Pending,25-34,Standard,Food Item,No,In-store,2024-11-02,71.64,7,16.76,48.65,40
+10680631-b25d-4514-aeee-4cbf8b5f8f6d,Food,North,PayPal,Completed,18-24,Same Day,Smartphone,Yes,In-store,2024-11-03,304.62,3,32.65,21.15,22
+354d50ef-8db2-49d7-90ec-6b9ffbd19fde,Electronics,West,Cash,Pending,25-34,Express,T-shirt,Yes,In-store,2024-11-04,400.77,1,9.82,49.75,39
+0a763b2b-1da3-40ce-813d-64b7849da4c4,Food,West,Cash,Shipped,45-54,Express,Chair,Yes,In-store,2024-11-05,11.83,10,22.89,7.67,47
+741ec18a-9292-44c7-a568-baefe01c9ddf,Toys,South,PayPal,Pending,25-34,Standard,T-shirt,No,Online,2024-11-01,331.12,5,48.03,33.38,36
+3d7ddced-56a4-417d-a2cb-84721ac2e9db,Furniture,East,Cash,Pending,35-44,Standard,T-shirt,No,In-store,2024-11-01,63.02,1,18.8,1.14,26
+9aa0487f-f88c-4e37-9d2b-4e9203a67253,Electronics,West,Cash,Shipped,18-24,Same Day,T-shirt,Yes,Online,2024-11-02,360.17,3,11.14,1.38,35
+d8bb860d-a857-4b34-86b1-9f9739161925,Food,North,PayPal,Shipped,45-54,Standard,Chair,No,In-store,2024-11-03,491.11,10,26.41,39.91,27
+9721ae5c-94c7-4f4c-84c2-818709d4e8aa,Furniture,North,PayPal,Shipped,35-44,Express,Chair,No,In-store,2024-11-02,300.43,2,49.84,40.65,35
+948acdb7-0eb6-4b8a-a8f0-e1051613dd38,Furniture,North,PayPal,Completed,18-24,Same Day,Food Item,No,In-store,2024-11-05,378.7,2,15.65,35.28,5
+aa21acf8-0532-461c-9f7d-256c47bab9a2,Furniture,North,Credit Card,Completed,35-44,Same Day,Chair,Yes,Online,2024-11-03,93.96,10,35.32,21.77,33
+c9cf0880-dc98-4458-8158-b45e0de02a30,Food,East,PayPal,Completed,35-44,Standard,Laptop,No,Online,2024-11-04,217.11,3,29.79,36.69,28
+57a8ccdc-765d-42f4-9683-baac6f8d0c7b,Furniture,North,Credit Card,Shipped,35-44,Same Day,T-shirt,No,In-store,2024-11-01,497.05,2,18.51,22.12,11
+6adbab76-f7fd-4831-89ce-6cdd9aa8579e,Toys,North,PayPal,Pending,18-24,Express,Chair,Yes,In-store,2024-11-05,222.63,7,44.56,39.96,9
+a420ccaa-0b93-4a15-8f81-00227d8f3009,Clothing,West,Credit Card,Completed,18-24,Express,Food Item,Yes,Online,2024-11-01,113.29,3,32.51,25.95,32
+7c27c394-0a6b-47cb-808e-65df633a6bbf,Toys,East,Credit Card,Shipped,25-34,Same Day,Chair,No,In-store,2024-11-03,121.55,9,29.2,14.72,39
+ec42c19a-3bf5-4cb5-ad0a-1a808ac4a438,Electronics,North,PayPal,Pending,25-34,Same Day,Food Item,Yes,In-store,2024-11-05,167.92,9,24.5,35.03,27
+1227f3e1-0076-4ccd-9dfa-29bca0347d78,Food,North,PayPal,Completed,55+,Same Day,T-shirt,No,Online,2024-11-05,149.33,9,10.6,16.99,35
+9f648411-c24e-4730-8c5c-a9b2cbed5a7b,Food,South,Credit Card,Shipped,55+,Express,Smartphone,No,Online,2024-11-03,292.1,9,28.23,9.85,8
+68cf98e6-13c9-4234-bd7a-03682f512949,Clothing,South,Cash,Pending,55+,Express,Chair,No,In-store,2024-11-04,87.86,1,27.88,44.6,19
+f055122b-7469-4896-a26d-edf832500552,Food,West,PayPal,Completed,25-34,Standard,Food Item,No,Online,2024-11-02,394.86,4,48.79,8.72,45
+330b5c2e-0944-4eed-93f2-a12d745590ae,Toys,West,PayPal,Completed,18-24,Standard,Chair,Yes,Online,2024-11-05,449.57,6,45.84,19.66,47
+3427b489-6a84-43ef-864d-3f51dc4f45ff,Electronics,North,Cash,Shipped,35-44,Same Day,Smartphone,Yes,In-store,2024-11-02,94.55,8,16.33,34.38,9
+8227ee63-a0b3-4182-af01-884ec5f27c0c,Clothing,East,PayPal,Completed,35-44,Standard,T-shirt,Yes,In-store,2024-11-02,275.56,4,15.25,29.92,16
+b734cb48-4fa4-46d6-8dee-d94d9a7d273e,Furniture,West,PayPal,Pending,25-34,Standard,Chair,No,In-store,2024-11-02,264.62,10,5.18,17.07,31
+7b9c0f90-0ed5-4634-80d0-973f9892af2a,Clothing,West,Cash,Completed,45-54,Express,Chair,No,In-store,2024-11-04,131.06,3,22.7,21.35,3
+350e6eb4-1b67-4e84-a14d-21fcec4ac64b,Electronics,South,Cash,Completed,55+,Express,T-shirt,No,In-store,2024-11-02,147.43,4,12.09,42.9,42
+0f6e0894-0650-4761-b591-f745718a72c3,Food,East,Credit Card,Shipped,45-54,Same Day,Laptop,No,Online,2024-11-02,368.52,7,31.53,38.37,37
+94de6f00-5c1c-41c5-9b5f-99df382fcd5e,Toys,North,PayPal,Completed,45-54,Standard,Laptop,No,In-store,2024-11-05,213.97,9,19.01,19.7,8
+30bf1a26-7d55-4e41-9f4a-2107723fa3a1,Clothing,West,Credit Card,Completed,18-24,Same Day,Smartphone,No,Online,2024-11-03,206.7,1,42.21,19.52,46
+eb1306d7-0bfb-4111-8ded-031d12c6b98e,Food,South,Cash,Pending,45-54,Standard,Smartphone,Yes,Online,2024-11-03,80.04,5,25.31,9.6,38
+d16c3a8d-702d-476e-9294-c7220eb11dc9,Food,North,Credit Card,Pending,55+,Express,Chair,Yes,In-store,2024-11-02,265.62,5,47.07,8.48,8
+26a5bfeb-892a-45f3-90e3-ed902e0f88ed,Toys,West,PayPal,Shipped,18-24,Express,Laptop,No,In-store,2024-11-02,470.58,2,26.05,32.32,48
+891beb0b-8cfb-44a3-8a12-491dee70f6c4,Clothing,North,Cash,Pending,25-34,Express,Chair,Yes,In-store,2024-11-05,74.08,2,33.85,28.88,4
+c6afa026-9919-41bd-879f-ae2601b59e2a,Toys,South,Credit Card,Shipped,55+,Express,T-shirt,No,Online,2024-11-05,471.62,4,47.59,49.05,37
+04e6137b-a4ee-4616-8f00-d933012684c8,Clothing,North,PayPal,Shipped,55+,Standard,Smartphone,Yes,In-store,2024-11-03,42.57,9,16.49,29.34,19
+d2849dac-e4c3-44eb-bdbc-76c2c38b6983,Clothing,North,PayPal,Shipped,18-24,Same Day,T-shirt,No,In-store,2024-11-04,109.93,4,44.23,43.34,36
+14406188-1d01-4b15-a84f-c8381dda5b2b,Food,East,Cash,Completed,45-54,Same Day,Laptop,Yes,Online,2024-11-01,58.84,7,41.67,40.94,41
+e481796d-298e-4e14-b155-8f2f1bac2076,Clothing,South,Cash,Pending,55+,Express,T-shirt,Yes,Online,2024-11-03,425.79,8,44.54,49.67,44
+8d28a229-0ac0-40f6-b1c3-3017840380b2,Electronics,West,PayPal,Pending,45-54,Same Day,Smartphone,Yes,In-store,2024-11-04,227.85,1,37.84,34.71,19
+4844000c-d409-404f-abd4-a375b368dd2f,Toys,West,Credit Card,Completed,45-54,Same Day,T-shirt,No,In-store,2024-11-05,398.1,1,37.21,22.8,19
+ee3ab645-2fee-46cf-8ecb-ae25b7fbe5ef,Furniture,North,Cash,Pending,18-24,Express,Smartphone,No,Online,2024-11-01,378.79,7,20.83,28.31,13
+546bf544-56fb-4b21-b2ee-1b94c0bfa63e,Food,East,PayPal,Completed,25-34,Standard,Smartphone,Yes,In-store,2024-11-04,202.63,4,14.95,2.53,6
+dc6b62c5-4cd4-43da-9745-26f667e04e11,Toys,East,Cash,Completed,25-34,Same Day,Smartphone,No,Online,2024-11-01,362.27,5,29.11,40.14,48
+9ea9c61d-304e-4a4b-99a9-20c349ee9ee3,Toys,East,PayPal,Completed,45-54,Standard,Laptop,No,Online,2024-11-03,460.57,8,42.75,16.64,3
+31d195fa-0411-4737-bae3-53efb8b15ba3,Clothing,South,PayPal,Completed,45-54,Same Day,Smartphone,Yes,In-store,2024-11-03,180.68,10,33.16,9.38,19
+3add4216-ec01-40a4-87ba-e2ee5c7fdd50,Clothing,South,Credit Card,Completed,45-54,Express,Smartphone,Yes,In-store,2024-11-03,222.11,1,18.47,25.45,19
+f7fbbbc6-0dec-4a0e-9577-7527387b2819,Food,West,Cash,Pending,35-44,Express,Chair,Yes,Online,2024-11-01,132.1,6,6.18,32.93,15
+453a2d6c-f8d6-414a-a1e2-b363e09a0466,Food,North,PayPal,Completed,18-24,Same Day,Chair,Yes,Online,2024-11-01,100.12,6,5.62,18.02,30
+581122fa-48a8-4a9e-b48c-7403ac97f1df,Clothing,South,Cash,Completed,35-44,Standard,Food Item,No,In-store,2024-11-03,107.13,7,33.81,34.86,29
+8f5b8db7-c536-4636-8fd4-937f6507c2c2,Toys,North,Cash,Shipped,45-54,Express,T-shirt,No,In-store,2024-11-03,281.93,9,7.54,37.13,4
+d58b2441-88e0-4dd0-8020-f7530a735431,Toys,South,Cash,Completed,18-24,Standard,Food Item,No,In-store,2024-11-04,299.3,8,9.2,7.93,48
+a0617501-4e4b-49bf-87bc-7406d0b1926a,Furniture,West,Credit Card,Shipped,35-44,Express,Smartphone,No,In-store,2024-11-01,498.07,9,23.9,27.5,26
+96a982af-5ee1-4237-a6c8-a54d34c1827c,Electronics,West,Cash,Shipped,18-24,Express,Chair,Yes,In-store,2024-11-02,276.3,2,17.35,30.55,26
+bdea6e31-cd80-45b3-88f0-39ab8b8c7dbd,Food,North,Cash,Shipped,35-44,Same Day,Laptop,No,Online,2024-11-02,311.02,6,18.04,42.45,30
+6c738864-49e6-4c8c-8fac-eea316905223,Electronics,West,Credit Card,Shipped,35-44,Standard,Laptop,No,In-store,2024-11-01,277.95,5,47.0,30.62,46
+b6025bd8-667c-4e19-bb1b-680acacb6df3,Toys,West,PayPal,Completed,55+,Express,Smartphone,Yes,In-store,2024-11-01,126.58,1,32.64,24.66,26
+8fb729aa-30b5-45f0-a1a1-3e7cab387474,Electronics,West,Cash,Shipped,18-24,Standard,T-shirt,No,In-store,2024-11-03,222.94,5,16.21,26.64,15
+d7ac29a9-a59c-4ae0-a359-8c4f49131073,Food,East,Cash,Pending,45-54,Express,Food Item,Yes,Online,2024-11-01,408.21,6,34.21,34.83,17
+8ca496f5-fbbe-4758-b08e-6d353d1af7ef,Furniture,West,Credit Card,Pending,45-54,Same Day,Laptop,Yes,In-store,2024-11-04,49.36,10,18.59,9.84,40
+dc346687-11fd-4594-96ca-42e86b768f32,Toys,West,Cash,Completed,45-54,Same Day,Smartphone,No,Online,2024-11-03,248.23,7,22.1,34.79,13
+bf04763c-db06-4cc7-9ad9-5d701fcafa7d,Toys,West,Cash,Shipped,35-44,Standard,Smartphone,No,Online,2024-11-01,300.89,3,14.6,4.14,47
+57e82ea9-4c91-4105-bca0-02741ea9783d,Toys,East,Cash,Completed,35-44,Standard,Food Item,No,Online,2024-11-02,116.74,2,16.09,49.75,43
+528f4ac9-c230-41eb-af0e-b97a7b02acd2,Electronics,North,Credit Card,Pending,35-44,Express,Laptop,Yes,Online,2024-11-04,482.0,10,33.68,47.57,47
+5435bdc0-a874-442d-a3a3-d9c7c14416e4,Electronics,West,PayPal,Completed,35-44,Standard,Chair,Yes,In-store,2024-11-04,105.54,8,45.32,6.23,16
+effe06e0-6adf-4892-98d8-42f5c444164b,Clothing,South,Credit Card,Shipped,25-34,Standard,Food Item,Yes,Online,2024-11-01,354.56,3,15.96,32.93,21
+fcbaf4ff-cc57-459c-a028-3d7107f54d10,Food,West,Credit Card,Completed,55+,Same Day,T-shirt,Yes,Online,2024-11-02,129.04,7,13.14,18.11,10
+d9d54266-7a78-47b0-ad83-2d069ef91ac0,Furniture,East,PayPal,Shipped,25-34,Same Day,Food Item,No,Online,2024-11-01,94.05,5,11.61,0.76,15
+81899c6c-53b4-401a-800d-b3cf4a962c4d,Toys,East,Credit Card,Pending,18-24,Standard,Chair,No,Online,2024-11-03,118.08,7,34.81,15.12,8
+8db5c62b-61c9-44bf-b8ce-33ef04209c27,Electronics,West,Cash,Completed,25-34,Same Day,Food Item,No,In-store,2024-11-04,341.78,9,31.07,23.68,38
+109c1dfe-42ca-4800-ad79-393fbc28c340,Clothing,North,PayPal,Completed,55+,Same Day,T-shirt,No,Online,2024-11-03,120.39,8,38.11,6.2,6
+05d51095-2ba6-4f2f-8ca6-0a489cc07a1e,Toys,West,Cash,Pending,25-34,Express,Smartphone,Yes,In-store,2024-11-02,121.13,4,45.9,2.63,40
+43c89432-9b8b-49e6-b33d-e9cbbaa9d501,Electronics,South,Credit Card,Pending,35-44,Standard,Laptop,No,In-store,2024-11-02,214.56,6,23.08,35.35,24
+f2a9e723-9ce1-4d89-b47c-cd633bcb0b5e,Furniture,West,PayPal,Shipped,35-44,Standard,Smartphone,No,Online,2024-11-04,220.59,1,11.14,29.96,9
+9956c9a3-67d1-43d0-8191-cfaa107a0959,Food,West,Credit Card,Pending,45-54,Standard,T-shirt,No,In-store,2024-11-02,339.16,7,11.4,6.78,11
+055ce2fe-fdd1-482a-b9b2-d28156cc739a,Clothing,South,Cash,Pending,55+,Standard,Food Item,Yes,In-store,2024-11-01,299.26,5,41.09,29.11,21
+43f9265b-2ca5-41f8-97e1-7ff993cb7c31,Clothing,South,Cash,Shipped,55+,Express,Smartphone,No,Online,2024-11-04,424.26,1,46.34,22.71,47
+86f199b9-f039-405f-a0de-951f69cea9ec,Furniture,West,Cash,Shipped,55+,Standard,T-shirt,Yes,Online,2024-11-02,266.77,5,26.22,9.65,15
+576a4ea3-6b6b-43c5-b85e-2cf13f5cf944,Toys,North,Cash,Completed,35-44,Standard,Smartphone,Yes,In-store,2024-11-03,144.52,9,11.04,14.94,11
+495941c5-8768-41f9-835e-566a23fa1ba7,Furniture,East,Credit Card,Completed,25-34,Express,Food Item,Yes,In-store,2024-11-04,20.33,3,30.93,23.89,16
+9fc7b370-52a9-433c-b9a2-a5b8a974884d,Clothing,East,PayPal,Pending,35-44,Same Day,Smartphone,Yes,Online,2024-11-04,163.66,7,24.94,34.32,14
+74e212ac-3e18-43c5-bdb8-e2d6cf85eedb,Clothing,East,Credit Card,Pending,35-44,Standard,T-shirt,Yes,Online,2024-11-04,175.99,4,26.71,29.23,31
+a171d1e2-50bc-47eb-b576-b686f747a079,Toys,West,PayPal,Shipped,25-34,Same Day,Laptop,Yes,Online,2024-11-03,283.35,3,43.65,7.1,31
+780b1cad-ac37-44ca-a4d7-04f161c45f5d,Food,West,Credit Card,Shipped,55+,Same Day,Food Item,No,Online,2024-11-04,221.12,3,6.84,49.61,8
+828a108e-08b4-4d38-b7c8-4f0497d5a703,Clothing,West,Cash,Completed,55+,Standard,Smartphone,No,In-store,2024-11-04,489.49,9,26.01,1.1,13
+171892f8-35cd-4d14-9079-e66f71498942,Food,East,Cash,Pending,55+,Express,Laptop,No,In-store,2024-11-03,188.89,9,42.18,32.83,27
+77843ba0-7947-429e-8673-68c8e5c4eb7f,Clothing,South,Cash,Shipped,55+,Express,Laptop,Yes,Online,2024-11-01,305.87,9,10.76,38.48,29
+6fe1cb57-d233-496b-a776-aecfc5109721,Toys,South,Cash,Completed,25-34,Express,Smartphone,Yes,In-store,2024-11-05,14.62,6,15.48,25.58,11
+5050a627-4616-4771-bfaa-ad4810570a5b,Toys,North,PayPal,Shipped,45-54,Same Day,Smartphone,Yes,In-store,2024-11-04,314.96,9,48.87,11.48,16
+9929e21d-2d7e-4ac9-bf12-d195ff24b8da,Electronics,West,PayPal,Shipped,25-34,Express,Chair,No,Online,2024-11-01,408.98,4,32.43,26.49,34
+c08da50a-12dc-41dd-956c-c4c391983684,Food,South,Credit Card,Shipped,45-54,Standard,T-shirt,Yes,In-store,2024-11-02,91.65,2,35.63,46.49,8
+f4511139-0a0a-441f-895c-60682fe701e5,Food,South,Cash,Shipped,18-24,Express,Food Item,No,Online,2024-11-04,344.56,1,27.03,44.09,33
+60f25e41-6122-4d83-8e8b-2a5ad4ea3421,Food,South,PayPal,Completed,18-24,Same Day,Smartphone,No,Online,2024-11-02,164.11,8,13.66,33.18,3
+06313328-f2c8-42e3-bf9b-48bb22e5337d,Furniture,North,Cash,Completed,18-24,Same Day,Laptop,No,In-store,2024-11-05,286.33,9,11.47,31.89,39
+a361127a-4e31-4f19-aab9-f7c3c3dc2e49,Clothing,East,Cash,Completed,35-44,Standard,Food Item,No,In-store,2024-11-05,447.44,5,34.53,7.88,6
+4c625394-dda4-4777-8069-c1be8fc4c9dc,Clothing,West,Credit Card,Shipped,25-34,Express,Laptop,Yes,In-store,2024-11-03,436.01,7,43.17,32.05,15
+0cb1ba13-2fbb-433a-96d0-aaa8b9ede962,Electronics,North,Credit Card,Pending,18-24,Same Day,Smartphone,Yes,In-store,2024-11-05,97.35,4,7.87,7.29,24
+0d826c16-03e7-4952-b70a-6c1d76d75dd3,Furniture,West,PayPal,Pending,25-34,Express,Smartphone,No,Online,2024-11-05,379.88,6,49.92,38.25,22
+fe24e28e-bd8d-41a6-aead-a7c4e38847ea,Toys,West,Cash,Pending,18-24,Express,Smartphone,No,In-store,2024-11-05,126.93,10,25.93,2.41,26
+6e3251dc-fb25-4a94-92b0-8fa45fc8881f,Furniture,East,Credit Card,Shipped,55+,Express,Laptop,Yes,Online,2024-11-05,371.91,5,15.58,1.99,32
+a488ed5f-ad8a-4a97-9731-b4779bb36fd7,Furniture,North,Cash,Completed,25-34,Standard,Chair,Yes,In-store,2024-11-03,140.48,5,10.59,35.98,38
+993ed843-00a9-454b-8b87-3522502034c6,Clothing,South,PayPal,Shipped,25-34,Standard,Chair,Yes,Online,2024-11-05,449.15,3,9.59,29.35,35
+c90d80a9-8c57-4b23-bb9f-8fae9a5266d5,Electronics,East,PayPal,Shipped,18-24,Same Day,Laptop,No,In-store,2024-11-04,243.17,1,46.4,5.18,37
+59ea925e-bd5b-44c0-8215-c5f3176a044f,Food,South,Credit Card,Pending,55+,Express,Chair,No,In-store,2024-11-02,302.49,6,26.84,30.05,36
+39420301-6ef7-408d-b9de-416e42674c38,Furniture,North,Credit Card,Pending,35-44,Express,Laptop,No,In-store,2024-11-02,321.64,9,5.12,8.01,26
+32f1cc72-c821-450a-aa04-357524352c03,Toys,West,PayPal,Pending,25-34,Same Day,Smartphone,Yes,In-store,2024-11-04,365.88,9,45.42,40.2,34
+87e93656-a994-4632-8b2d-30c9fbf5e9a1,Food,South,PayPal,Shipped,18-24,Same Day,Chair,Yes,Online,2024-11-02,33.15,8,16.18,7.23,14
+2fd8da42-37c0-4919-907a-19780a1e089d,Toys,East,PayPal,Shipped,35-44,Same Day,Chair,No,In-store,2024-11-04,460.29,6,11.74,38.66,44
+12a38284-7006-4b18-bc62-5a035e7621a5,Clothing,West,Credit Card,Shipped,35-44,Express,Chair,Yes,In-store,2024-11-03,391.21,8,20.5,15.53,5
+ebeefcaa-6baa-47fe-aa14-7b7614c89c22,Clothing,East,Credit Card,Pending,25-34,Same Day,T-shirt,Yes,In-store,2024-11-04,126.37,8,31.11,44.09,37
+dd11c639-a71a-4c3b-8d55-032eae0ca440,Clothing,South,Credit Card,Shipped,35-44,Standard,Chair,Yes,Online,2024-11-02,196.42,10,37.67,8.39,1
+b54001f3-9d76-4af8-b3a1-8b72adb26198,Toys,East,PayPal,Completed,25-34,Same Day,Laptop,No,In-store,2024-11-03,497.21,1,11.2,6.82,44
+e465f9ae-c769-4479-9184-59edd737037d,Toys,North,PayPal,Shipped,35-44,Standard,Smartphone,No,Online,2024-11-02,228.4,6,28.46,29.15,4
+e9a34e6c-c150-4978-b1d8-59a33418f539,Electronics,East,Credit Card,Completed,25-34,Express,Food Item,No,Online,2024-11-04,496.19,6,30.98,43.07,43
+94f5b6a9-a1d5-44be-8d84-5ccc5b768292,Clothing,North,Cash,Pending,55+,Standard,T-shirt,No,Online,2024-11-01,151.49,6,23.18,2.01,41
+b08b0f9b-f5d8-4117-b276-074da3d01ab8,Clothing,South,Credit Card,Shipped,45-54,Same Day,Food Item,Yes,In-store,2024-11-04,268.9,8,10.07,26.34,46
+859cf6f9-a832-4b7f-8398-281fd48b9a1c,Toys,South,Cash,Completed,25-34,Express,T-shirt,Yes,Online,2024-11-03,165.53,10,36.49,22.48,13
+9ffb22fa-3ee3-46dc-8f87-bbc522ed061d,Electronics,East,PayPal,Shipped,55+,Standard,T-shirt,No,Online,2024-11-05,305.18,2,21.75,44.11,38
+2fa8a588-53ad-4403-a552-4811cddd12ab,Clothing,East,Credit Card,Shipped,18-24,Same Day,Laptop,No,Online,2024-11-02,219.06,3,20.37,44.01,34
+aeef1d1f-a3de-4b6a-8fac-730f894511f0,Clothing,North,PayPal,Shipped,25-34,Express,Chair,No,In-store,2024-11-01,338.91,4,15.29,3.44,22
+43bf122f-7745-4ee2-99b8-1961451b595c,Furniture,North,Cash,Completed,25-34,Express,T-shirt,Yes,In-store,2024-11-02,496.12,3,49.66,9.49,28
+b67576d9-e9df-4671-a907-b2452ad9d7b5,Furniture,East,PayPal,Pending,45-54,Standard,Chair,Yes,In-store,2024-11-04,263.27,2,6.72,27.91,8
+8cbf796c-a9da-4833-b81b-10d8bc422eda,Furniture,South,Credit Card,Pending,45-54,Same Day,T-shirt,Yes,Online,2024-11-05,37.1,6,44.27,23.94,25
+079b6bc3-881a-4dc6-965c-633b3c69bc16,Clothing,East,PayPal,Completed,18-24,Standard,Smartphone,Yes,Online,2024-11-04,280.81,6,26.74,28.41,36
+1d331caf-5d67-45ac-8e65-863d8553353b,Electronics,South,Credit Card,Completed,35-44,Express,Food Item,No,In-store,2024-11-01,333.67,1,18.33,35.96,2
+cb74774b-53b8-4893-a0c1-40abf8430169,Clothing,South,PayPal,Completed,55+,Express,Smartphone,No,Online,2024-11-05,148.2,7,48.27,20.48,36
+03f5c993-5b54-42be-a37f-a77ab910538e,Electronics,North,Cash,Shipped,18-24,Standard,Smartphone,No,Online,2024-11-01,25.46,6,23.25,8.07,26
+2d92f98c-3047-4581-95b5-9cce721d3704,Clothing,South,Cash,Pending,45-54,Same Day,Laptop,No,Online,2024-11-02,113.71,8,10.57,45.83,48
+606d16a4-9bb2-41a2-9f24-d7d468bb793d,Furniture,South,Cash,Shipped,18-24,Same Day,Laptop,No,In-store,2024-11-04,499.7,4,36.5,8.84,48
+981e7b65-514e-4195-a61e-643b79d64161,Clothing,West,Credit Card,Pending,18-24,Same Day,Chair,No,Online,2024-11-05,67.17,4,20.85,31.24,42
+c7df4a16-065a-41f1-9b41-0e114cd8ff8f,Electronics,North,PayPal,Pending,35-44,Standard,Food Item,Yes,In-store,2024-11-04,329.12,5,28.93,38.7,30
+1bbc8e8b-a900-4101-b9b6-365d102d9f5d,Clothing,South,Cash,Pending,55+,Same Day,Smartphone,Yes,Online,2024-11-03,294.61,1,33.07,25.29,35
+0884099f-22f3-46ac-bcd5-d6a2a38ebde6,Clothing,West,Credit Card,Pending,45-54,Same Day,Smartphone,No,Online,2024-11-05,413.7,7,8.84,38.86,35
+32573330-954c-4152-ba62-2bc4b2c098a8,Toys,South,Cash,Shipped,45-54,Express,Food Item,No,In-store,2024-11-02,273.35,2,41.25,35.55,30
+d9294821-fe3a-4188-bd3d-29deb33dddf2,Food,North,Cash,Shipped,35-44,Express,Smartphone,Yes,Online,2024-11-01,250.04,3,47.09,42.21,37
+b2806c23-6b7a-440f-9039-30413d50accf,Furniture,South,Cash,Pending,55+,Standard,Smartphone,Yes,Online,2024-11-04,109.43,5,30.81,44.05,23
+5c7717da-dff0-4483-9290-52dd6a54e08f,Clothing,West,Credit Card,Pending,55+,Same Day,T-shirt,Yes,Online,2024-11-05,399.4,9,34.94,4.98,26
+90b6d1c6-3566-4d09-93c8-28d7d95d6bd0,Clothing,South,Cash,Completed,18-24,Standard,Smartphone,Yes,In-store,2024-11-05,123.66,5,11.62,45.09,25
+c0ac20f9-5b10-47a8-924d-908f0eac7f1c,Food,West,PayPal,Shipped,55+,Standard,Laptop,No,Online,2024-11-04,315.03,6,28.0,1.76,30
+fa3f75aa-1be0-4e12-890c-87bbf74bc292,Clothing,West,Credit Card,Pending,18-24,Same Day,Food Item,Yes,Online,2024-11-02,200.88,2,40.32,45.14,14
+d02da7d6-64ff-4152-8ae0-7bc04b107d2f,Food,East,PayPal,Completed,25-34,Express,Smartphone,No,Online,2024-11-05,109.85,5,28.67,34.86,28
+6279630b-7c6c-453c-b928-ac9f87b3a590,Food,South,PayPal,Completed,55+,Same Day,T-shirt,Yes,Online,2024-11-04,78.2,9,17.27,33.63,12
+6e0d1bab-988d-4583-b4d1-1b1416e8c969,Furniture,West,Cash,Shipped,45-54,Standard,T-shirt,Yes,In-store,2024-11-05,448.56,2,44.43,48.47,25
+ab9237fc-9865-4d5d-94d5-89e2b9480a9a,Furniture,East,PayPal,Shipped,18-24,Standard,Chair,No,In-store,2024-11-01,186.25,1,39.36,42.36,3
+19eb2865-9dcd-490e-8f34-f4d1dd8e4fef,Food,North,PayPal,Shipped,55+,Standard,Smartphone,Yes,Online,2024-11-02,444.46,5,10.21,5.6,38
+4ba42d44-0b41-40c3-baa1-44aa9a531a44,Electronics,North,PayPal,Shipped,18-24,Express,T-shirt,Yes,In-store,2024-11-04,437.83,3,37.78,6.17,14
+7ac479f7-385f-45ce-a295-d8a8cf8dfd87,Toys,West,Credit Card,Shipped,55+,Same Day,Chair,Yes,In-store,2024-11-02,187.78,1,22.61,3.07,11
+190d0ee1-ea76-4fe0-a836-c04100a44899,Clothing,North,Credit Card,Completed,45-54,Express,Food Item,Yes,Online,2024-11-01,334.78,4,44.45,4.83,35
+07099a04-f0e3-4266-aca7-774eeaf35acd,Furniture,West,Credit Card,Pending,35-44,Same Day,Laptop,Yes,Online,2024-11-01,404.19,9,24.71,40.02,28
+b8632ca5-9b05-4440-a497-4b89b4e9eaa7,Food,North,Credit Card,Shipped,35-44,Same Day,Smartphone,Yes,In-store,2024-11-04,266.13,2,49.51,10.96,31
+4163f764-51a9-44ac-be58-4dade2926de9,Clothing,West,Cash,Shipped,18-24,Same Day,Chair,Yes,In-store,2024-11-01,287.76,2,40.46,3.99,48
+51c51665-288c-4898-abda-94a26206e0fa,Food,West,Credit Card,Pending,18-24,Same Day,Food Item,Yes,In-store,2024-11-05,115.57,7,43.2,6.43,36
+1936afbd-4f88-454c-b284-9598484e54ea,Clothing,South,PayPal,Shipped,35-44,Same Day,Laptop,Yes,Online,2024-11-01,368.94,6,39.87,9.2,8
+161bdf33-9398-4872-addb-eecc3cb58fe7,Electronics,North,Credit Card,Pending,35-44,Same Day,Chair,Yes,Online,2024-11-03,58.04,4,22.29,45.03,25
+8c2f02de-55ee-41e2-b7a5-c4053502b767,Electronics,East,PayPal,Pending,45-54,Standard,Laptop,No,In-store,2024-11-03,95.17,9,13.84,46.74,45
+6c531ea6-dcd4-4d20-bf89-e37894d0afdd,Toys,North,Cash,Shipped,18-24,Standard,T-shirt,No,Online,2024-11-04,380.27,5,48.1,42.82,44
+8f5505fa-ea97-45bc-bf25-2c15cd5ee093,Clothing,North,Cash,Pending,35-44,Standard,Laptop,Yes,Online,2024-11-01,242.58,8,20.18,21.87,11
+2c37669f-bde4-42d1-82fe-e54b3b4830a2,Clothing,East,Cash,Pending,35-44,Standard,Laptop,No,In-store,2024-11-01,172.17,8,45.97,9.45,37
+2154d225-0c20-4b93-a809-d3b72b458e89,Furniture,East,Cash,Completed,55+,Express,Food Item,No,Online,2024-11-01,22.57,3,44.81,36.83,8
+6de7e949-d856-40ed-8ac0-d59ccfbac992,Furniture,West,Credit Card,Completed,18-24,Express,Food Item,No,In-store,2024-11-02,153.28,3,24.89,1.26,2
+177b8343-1ce1-4953-805d-a639c23b042b,Toys,East,Credit Card,Shipped,25-34,Standard,T-shirt,Yes,Online,2024-11-05,135.89,8,9.08,26.19,36
+959dc0fd-12b8-4ca6-a207-d99251be785f,Toys,North,PayPal,Pending,35-44,Express,T-shirt,Yes,Online,2024-11-03,212.33,7,44.34,19.06,28
+8afea653-4641-46bc-a952-f85ccc37cc15,Clothing,West,Cash,Completed,25-34,Standard,Chair,No,In-store,2024-11-05,43.97,2,23.87,37.48,40
+ddab5ddf-dbdb-44c2-8207-f406e40bc0dd,Clothing,North,Credit Card,Shipped,18-24,Standard,Smartphone,Yes,Online,2024-11-05,483.07,7,8.3,18.29,45
+d3f8c398-175f-44a9-9083-35fe4e41ae24,Clothing,West,Credit Card,Shipped,45-54,Express,Food Item,Yes,In-store,2024-11-03,156.29,8,44.9,48.7,21
+0b290bb5-ebe6-4896-a596-a3afbaa3b726,Toys,South,PayPal,Shipped,45-54,Express,Chair,No,In-store,2024-11-02,233.21,4,19.17,6.28,38
+d8f6fd5a-f2da-45df-87bf-6b5318513f37,Clothing,West,PayPal,Shipped,55+,Same Day,Chair,No,Online,2024-11-03,15.39,9,29.11,14.09,23
+56d765c4-7d18-4f82-be0b-b6402a4685a7,Electronics,West,PayPal,Completed,18-24,Express,T-shirt,No,In-store,2024-11-04,317.93,1,19.66,9.86,26
+e67e7ab5-5574-4dac-b4ad-aab628d4f660,Electronics,West,Cash,Completed,25-34,Standard,Food Item,Yes,Online,2024-11-04,394.36,10,33.91,23.81,20
+9182c623-b190-4433-96c6-7375141f8b15,Clothing,North,Credit Card,Pending,35-44,Same Day,Laptop,Yes,Online,2024-11-04,111.68,2,15.63,35.13,14
+e0f03cc2-eb6c-41c7-ada0-d73534f77cc0,Clothing,North,Cash,Pending,45-54,Same Day,Food Item,Yes,In-store,2024-11-03,343.03,5,8.24,7.97,27
+1c2da30a-91ee-49a8-8064-4a3addf1d266,Toys,North,Cash,Shipped,18-24,Express,Food Item,Yes,Online,2024-11-03,72.79,8,28.35,2.21,45
+410b3dcf-a2f7-4388-9ca5-77252e94ad5d,Clothing,South,Credit Card,Pending,25-34,Express,Food Item,Yes,In-store,2024-11-02,440.46,10,34.39,17.59,14
+63a65746-3837-4a27-9420-235a1600e7d1,Clothing,East,Credit Card,Shipped,55+,Same Day,Chair,No,Online,2024-11-02,438.38,5,7.79,30.76,10
+2bc76a6a-7051-48f4-96a3-7a944daac75c,Electronics,South,Credit Card,Pending,55+,Same Day,Chair,No,Online,2024-11-01,222.29,10,22.17,12.41,33
+4381836b-acdd-4436-8e08-e9898a206056,Toys,West,Credit Card,Shipped,45-54,Standard,Smartphone,No,In-store,2024-11-01,106.9,2,23.2,6.81,26
+9e7fe598-cb8a-4ed9-b6fb-dde57bf2f469,Electronics,East,Cash,Pending,45-54,Express,Chair,Yes,Online,2024-11-03,445.21,2,6.51,3.24,14
+565f48e2-6b0c-4c3c-9a57-43b16a52ce7a,Electronics,South,Cash,Shipped,55+,Express,Smartphone,No,Online,2024-11-05,412.44,3,42.95,31.68,5
+b72556bb-12f4-4339-8f61-8fb090c4f69d,Furniture,North,PayPal,Completed,45-54,Same Day,Food Item,Yes,Online,2024-11-05,429.91,10,7.62,16.35,46
+2ae0a46d-426e-452d-8978-a54ca85541c5,Clothing,North,Cash,Shipped,35-44,Same Day,Laptop,No,Online,2024-11-02,22.74,9,47.36,47.51,20
+5366d0f8-9518-4d61-ab1a-6710fa5c10a0,Electronics,East,Credit Card,Shipped,25-34,Standard,Food Item,No,In-store,2024-11-01,382.93,4,30.99,5.63,5
+125fe44b-b737-461c-93a2-69d4717d82be,Food,East,Credit Card,Completed,25-34,Standard,Laptop,No,In-store,2024-11-02,278.61,10,26.06,36.52,4
+76f08a2f-f60e-442e-a313-b09ef704b04d,Furniture,North,Credit Card,Completed,45-54,Same Day,Food Item,Yes,Online,2024-11-02,137.02,7,23.51,34.57,46
+e938506e-4106-4801-b4fe-2a27a49d73d2,Clothing,North,PayPal,Pending,25-34,Same Day,Smartphone,Yes,In-store,2024-11-01,131.47,8,9.89,29.9,6
+c0d8107b-9ba5-4993-bda6-4851cbb82cc9,Toys,East,Cash,Shipped,18-24,Express,Laptop,Yes,In-store,2024-11-01,376.23,1,30.29,33.62,44
+f5d58477-8635-413f-a4aa-1ea78cbb3850,Toys,East,PayPal,Pending,55+,Same Day,Food Item,Yes,In-store,2024-11-02,126.12,9,17.88,13.25,13
+829b7a6d-2041-4fbb-83cd-784be936330b,Furniture,North,Cash,Completed,45-54,Standard,Chair,Yes,In-store,2024-11-02,226.65,10,34.08,12.88,23
+ebcb3993-5d81-4b23-9e7f-7b0a95523596,Clothing,East,Credit Card,Shipped,55+,Standard,Chair,Yes,In-store,2024-11-05,133.93,8,40.6,46.79,29
+ba88890b-4b86-4124-9e39-c353dfda6e5b,Food,North,PayPal,Pending,18-24,Express,Chair,Yes,Online,2024-11-04,138.09,2,5.93,47.31,46
+bc6165e3-36aa-43f2-a98c-dfb44ff556af,Electronics,East,Cash,Completed,55+,Express,T-shirt,Yes,In-store,2024-11-03,23.81,9,34.51,18.34,20
+a22e9bb6-e181-4e43-a0ac-7b1779b069d9,Food,West,Credit Card,Completed,45-54,Standard,Food Item,No,Online,2024-11-02,254.64,6,40.9,41.41,5
+63176fae-be0d-4d00-a749-fc4b0b7c90be,Clothing,South,Credit Card,Pending,25-34,Express,Food Item,Yes,In-store,2024-11-03,33.24,8,41.35,6.52,17
+14a13115-f6f1-48f9-bfdd-b30b9f4b8342,Food,East,Credit Card,Shipped,18-24,Same Day,Laptop,Yes,In-store,2024-11-05,135.09,1,16.47,0.66,12
+48ae59a2-8973-44d7-9c4f-1f062c57acb9,Toys,West,PayPal,Shipped,55+,Same Day,T-shirt,Yes,In-store,2024-11-03,347.39,6,45.85,23.29,38
+4ee6061e-c560-409c-98eb-0cd86b9156b5,Furniture,North,PayPal,Shipped,25-34,Express,Smartphone,Yes,In-store,2024-11-02,376.81,7,16.04,22.03,46
+207d07ac-14df-48dd-be8e-232529e8ecdc,Electronics,East,Credit Card,Pending,25-34,Express,Smartphone,Yes,In-store,2024-11-02,351.81,7,33.07,40.55,29
+efdc411d-0a00-45eb-a842-a455c66b75eb,Electronics,West,PayPal,Pending,18-24,Same Day,T-shirt,Yes,Online,2024-11-01,319.0,2,35.94,4.6,3
+1acfb8ce-e76d-496a-8da7-f09ee042f263,Electronics,East,Credit Card,Shipped,45-54,Express,Food Item,Yes,Online,2024-11-05,24.8,1,19.63,8.95,41
+a2b74283-f32e-47b8-95d6-f5ddde86d723,Furniture,East,PayPal,Pending,45-54,Same Day,Chair,No,Online,2024-11-03,188.83,5,27.19,31.78,5
+62be8b62-0152-4a1a-9201-7bde002afe79,Electronics,South,PayPal,Completed,18-24,Express,Smartphone,Yes,Online,2024-11-05,111.82,9,22.58,24.28,18
+eaafb920-ce93-43a7-b249-25b3a321270b,Furniture,North,Cash,Completed,35-44,Express,Laptop,No,Online,2024-11-03,163.29,10,34.7,15.85,30
+45102c3a-19cf-4062-ad2e-afa62b15dbfb,Food,East,PayPal,Shipped,18-24,Express,Chair,No,In-store,2024-11-04,210.88,10,31.73,6.25,24
+4d616fff-06f0-4001-8472-f7dd07cc7a71,Clothing,West,Credit Card,Pending,45-54,Same Day,Smartphone,Yes,Online,2024-11-02,314.59,3,30.87,30.07,33
+8bfcb126-6c02-4613-bc29-a060986db7e2,Electronics,West,Cash,Completed,45-54,Same Day,T-shirt,Yes,In-store,2024-11-01,219.5,4,25.55,41.6,4
+337ebd53-cacd-49c9-876d-d39014a62b61,Food,West,Cash,Pending,35-44,Same Day,Laptop,Yes,In-store,2024-11-04,218.13,10,19.54,6.31,13
+9a2f995e-c6e3-48c8-9190-6b60986cf3a5,Clothing,West,PayPal,Completed,45-54,Same Day,Laptop,Yes,In-store,2024-11-05,313.35,2,28.8,17.74,31
+08852033-90eb-4cbe-a9dd-8ac28b2510a0,Food,East,Cash,Shipped,55+,Express,Smartphone,No,Online,2024-11-05,282.98,1,14.81,37.74,5
+0a373855-73e1-4edc-8d74-29261bbb96f1,Furniture,South,Cash,Shipped,35-44,Express,T-shirt,No,Online,2024-11-02,272.38,4,32.47,31.74,44
+2e05dbde-5f64-4a48-bf95-5c416434eded,Electronics,North,Cash,Completed,45-54,Express,T-shirt,Yes,In-store,2024-11-04,261.76,10,18.27,39.24,4
+7cb33080-06cc-4fc8-b726-9d2989aff8ed,Food,West,PayPal,Pending,55+,Standard,Smartphone,Yes,In-store,2024-11-04,184.38,5,17.16,12.13,35
+d833e628-e32e-421b-bd0c-5c7e6ecc8e02,Furniture,West,Credit Card,Pending,55+,Standard,Chair,Yes,Online,2024-11-03,459.89,7,34.37,25.45,3
+e2a8b8ea-bf2d-4eeb-b9b2-a0cf9bd604f4,Furniture,West,Cash,Shipped,45-54,Standard,Chair,No,In-store,2024-11-02,381.98,1,31.93,26.16,9
+9ca4f730-e2c6-422f-908b-7c74f9329df9,Food,East,PayPal,Pending,55+,Standard,Food Item,Yes,Online,2024-11-03,352.18,5,33.55,18.97,9
+a18b6f80-405d-42db-b95d-cda9aff0a62a,Clothing,West,Cash,Completed,45-54,Same Day,Laptop,Yes,In-store,2024-11-02,466.01,6,38.98,5.2,3
+45c53474-f134-4a37-8e7b-c635e8c9cc83,Clothing,South,Cash,Completed,35-44,Express,Smartphone,Yes,Online,2024-11-04,372.03,6,24.85,7.95,21
+2c5f3715-e98c-4ab4-a197-5cac2b93ae5a,Electronics,North,Credit Card,Completed,18-24,Same Day,Food Item,No,In-store,2024-11-04,229.72,5,12.54,26.48,19
+b50526e3-9b02-49fc-9a47-3d15f0ee7173,Clothing,North,Cash,Shipped,25-34,Standard,Laptop,Yes,In-store,2024-11-04,202.24,3,32.37,5.6,46
+0b0241b2-9959-443c-9b2e-d96ac6c58eb5,Clothing,North,Credit Card,Pending,45-54,Same Day,Chair,No,In-store,2024-11-05,62.84,5,19.55,33.68,2
+fd529dc5-f3a0-4552-9047-b000e8c77dc5,Furniture,North,PayPal,Pending,45-54,Express,Chair,Yes,Online,2024-11-03,308.03,10,40.77,39.66,30
+731b2e4a-86f4-47ad-a58f-9a754c59ac02,Clothing,East,PayPal,Completed,45-54,Express,Chair,Yes,Online,2024-11-05,46.41,2,24.83,24.77,28
+20b827fe-d82d-4cd1-87d7-48d936a0b531,Electronics,East,Credit Card,Completed,55+,Standard,Food Item,No,Online,2024-11-03,39.87,4,10.39,47.61,45
+62623e20-214f-4133-b3a9-f5c6f408db34,Clothing,East,Cash,Pending,45-54,Standard,Laptop,No,Online,2024-11-03,418.66,3,33.99,45.65,5
+a362d2c4-667d-4401-a1ea-4458884113ee,Toys,North,PayPal,Completed,25-34,Express,Laptop,No,In-store,2024-11-04,11.02,10,42.18,7.08,31
+debf9fed-7d50-4afa-b3ad-6895f5b7c562,Furniture,East,PayPal,Completed,35-44,Same Day,T-shirt,Yes,Online,2024-11-01,218.88,2,46.67,3.21,25
+0abfd9ad-e0ef-4284-85a7-5e16748bc94f,Furniture,South,PayPal,Completed,35-44,Same Day,Smartphone,No,In-store,2024-11-05,499.94,1,34.41,6.72,1
+62ee2545-d5d5-457c-b7ab-623d3dea0640,Toys,South,PayPal,Completed,35-44,Same Day,Laptop,No,Online,2024-11-02,424.36,5,12.15,27.13,4
+1ec4115b-1875-49bb-b9a4-fbae3462d2ac,Toys,West,PayPal,Completed,35-44,Same Day,T-shirt,No,In-store,2024-11-05,480.87,1,8.05,37.69,13
+d460b05e-cb22-46c6-a5c9-2444af699377,Electronics,West,PayPal,Shipped,55+,Express,Laptop,Yes,Online,2024-11-02,497.8,4,41.64,21.46,26
+12c8499c-33d1-4a95-8937-ac55aec3c211,Toys,South,Credit Card,Shipped,35-44,Express,Chair,Yes,In-store,2024-11-03,192.81,3,44.74,9.9,4
+1f7147a7-26da-4cf6-b7b1-27c1dc31d777,Furniture,West,PayPal,Shipped,45-54,Same Day,T-shirt,No,In-store,2024-11-05,243.41,1,11.32,36.46,16
+2ac4c5d3-215d-48ca-94d4-fd0d5eabaf9f,Toys,South,Credit Card,Shipped,25-34,Express,Smartphone,No,Online,2024-11-02,99.5,8,5.63,37.02,41
+da37c8f2-afee-47bd-8d43-5cd6347ec05c,Electronics,East,PayPal,Pending,25-34,Same Day,T-shirt,No,Online,2024-11-02,76.51,7,29.96,34.91,29
+9b4f0500-52c3-4060-8626-dae9da6dbc99,Furniture,North,Credit Card,Pending,35-44,Same Day,Chair,Yes,In-store,2024-11-04,64.38,6,43.62,35.96,8
+d43f4b21-3ca3-4524-a490-3f77b73ed300,Electronics,South,Cash,Completed,55+,Express,Laptop,No,In-store,2024-11-01,386.07,7,15.73,21.57,8
+faad91eb-abf3-433c-8ec9-094b87896c35,Food,East,Credit Card,Completed,18-24,Same Day,Food Item,No,In-store,2024-11-04,336.83,3,36.76,8.36,31
+1954edc4-1b62-45ea-9b20-819d8ee44486,Electronics,South,Cash,Pending,18-24,Express,Smartphone,Yes,In-store,2024-11-01,499.37,10,49.18,40.05,8
+50774d7e-5c1c-469b-a5f8-ffca6637bf77,Clothing,East,PayPal,Shipped,18-24,Express,Smartphone,No,Online,2024-11-03,289.35,3,7.2,2.25,37
+15d3e808-303f-4fad-997e-789957c852f8,Food,East,PayPal,Completed,45-54,Same Day,Smartphone,Yes,In-store,2024-11-02,103.89,2,38.73,22.53,42
+1b683489-023f-4445-9ee7-79c36cdf4f26,Food,West,PayPal,Shipped,18-24,Same Day,Smartphone,Yes,Online,2024-11-04,98.4,5,45.82,22.27,41
+e62a9f84-5b1c-49c3-be79-3559275c8326,Toys,East,PayPal,Completed,25-34,Same Day,Laptop,Yes,In-store,2024-11-04,367.82,2,23.87,25.0,4
+bba76b0f-63fc-43c9-b153-2ede317f27bc,Food,East,Credit Card,Completed,25-34,Standard,Food Item,Yes,In-store,2024-11-02,488.29,7,43.91,43.59,34
+86b7871d-2e31-4dde-9c32-d1853fb685ad,Clothing,South,Credit Card,Shipped,25-34,Same Day,Laptop,Yes,Online,2024-11-01,97.65,1,46.28,22.78,4
+3310bab9-3198-434d-a56d-c64e4004c626,Toys,West,PayPal,Pending,55+,Express,Food Item,No,Online,2024-11-03,137.05,2,17.42,4.76,47
+00b28649-1aa5-48bc-9e14-b2543305ae39,Toys,North,Credit Card,Completed,25-34,Same Day,Chair,No,In-store,2024-11-02,483.36,1,37.79,10.07,12
+7dabb4c7-9d9f-41df-9ba0-59982bedfaf6,Electronics,South,PayPal,Shipped,25-34,Standard,T-shirt,No,Online,2024-11-05,19.44,4,45.96,36.85,24
+a3d6891f-54e6-4032-b6e4-73373a16a930,Clothing,North,Cash,Completed,45-54,Same Day,Laptop,Yes,In-store,2024-11-02,307.67,4,26.41,26.67,19
+b9ccd9c8-8480-4c46-bb1b-37e2133ec5d4,Furniture,South,PayPal,Shipped,45-54,Standard,Laptop,No,Online,2024-11-01,469.48,1,30.9,31.6,2
+d4d5c319-788a-4700-b921-9e65e64f4670,Furniture,East,Cash,Pending,18-24,Standard,Laptop,No,In-store,2024-11-02,415.79,9,35.66,30.53,35
+5295899e-dae3-4fad-bb5c-8e71dab21bc9,Electronics,East,Cash,Shipped,55+,Same Day,Laptop,Yes,In-store,2024-11-01,455.13,5,12.92,16.95,26
+32515cae-b11f-4d61-a21c-83e3c902951b,Food,North,Credit Card,Completed,35-44,Express,Food Item,No,In-store,2024-11-01,484.31,4,33.9,17.57,33
+9dcfe23d-6af3-41ad-8bf3-32345d38a0ad,Furniture,South,PayPal,Pending,45-54,Same Day,Smartphone,Yes,In-store,2024-11-03,266.69,5,18.71,31.25,41
+d53a5424-3d7e-4bbe-afff-a7b4cedeb887,Furniture,East,PayPal,Pending,55+,Express,Smartphone,Yes,Online,2024-11-02,425.91,3,16.37,11.4,8
+c84e1a98-c85a-4cfa-82ad-4c2b6dc91d7a,Food,West,Credit Card,Completed,45-54,Standard,Laptop,Yes,Online,2024-11-01,328.04,8,35.87,9.34,7
+1303647e-e65d-4c0f-b201-8ffe7c3aec64,Toys,West,Credit Card,Completed,45-54,Standard,T-shirt,Yes,Online,2024-11-02,397.28,9,43.14,16.56,9
+5b69e0ee-d3b6-45d3-830f-3b19b9823a60,Furniture,North,Cash,Shipped,25-34,Same Day,Food Item,Yes,In-store,2024-11-05,377.23,5,15.78,40.71,9
+79352863-70af-4264-a206-61d50e3b33eb,Toys,North,PayPal,Completed,45-54,Same Day,Chair,No,In-store,2024-11-02,295.1,3,35.71,8.41,18
+e0d7c358-9148-4da8-bd2a-48be08d5c176,Furniture,East,PayPal,Completed,55+,Standard,T-shirt,No,Online,2024-11-04,442.92,9,18.45,22.62,13
+6ab4dbf3-c11c-4883-9c40-a8aa8c6ad11a,Toys,North,Credit Card,Pending,25-34,Same Day,T-shirt,No,Online,2024-11-01,59.95,6,19.93,49.92,2
+5643fed1-c959-4b94-8903-85ca0ecefaf3,Clothing,South,Cash,Pending,35-44,Standard,Food Item,No,In-store,2024-11-02,97.98,3,45.69,13.94,48
+29e43d90-0faa-4116-9325-b0761205757b,Electronics,West,Cash,Completed,35-44,Express,Food Item,Yes,In-store,2024-11-03,453.14,3,35.89,22.03,46
+6ef5e6f2-1654-41ed-a7f7-bd7699df0798,Clothing,East,Credit Card,Shipped,18-24,Same Day,T-shirt,No,In-store,2024-11-01,96.38,2,41.91,14.27,45
+b73c9396-374f-4db8-8ab5-4ad606509925,Toys,West,PayPal,Pending,35-44,Express,Food Item,No,Online,2024-11-04,241.5,2,14.47,36.36,29
+3573ebf1-3eea-42b9-8c66-c982b34ec256,Furniture,North,Cash,Completed,18-24,Standard,Chair,Yes,In-store,2024-11-03,312.91,9,27.46,10.03,14
+549b476c-6f64-4c11-b2b4-eb54f023e38e,Clothing,South,PayPal,Completed,45-54,Standard,Laptop,No,In-store,2024-11-04,105.9,9,39.26,31.28,31
+5d76eb35-44c7-41ff-93c9-145336896994,Clothing,West,Credit Card,Shipped,25-34,Standard,Smartphone,No,In-store,2024-11-05,74.91,6,27.96,25.29,37
+5a7c0e71-d65e-42a0-b9a1-b53aafe31465,Furniture,East,Credit Card,Shipped,25-34,Standard,Smartphone,Yes,In-store,2024-11-01,166.52,8,42.26,36.02,25
+71ba91a5-5b81-49fb-bad4-ff702dd8376b,Food,South,Credit Card,Completed,25-34,Same Day,Laptop,Yes,Online,2024-11-01,297.08,8,31.86,15.07,7
+956e654b-4df9-4dcb-930e-a181871f08fe,Electronics,North,Cash,Shipped,18-24,Express,T-shirt,No,In-store,2024-11-01,29.35,4,16.69,8.0,24
+3f51fdbe-bb58-4644-9256-1aedf45bf473,Food,North,Credit Card,Shipped,55+,Express,Chair,No,In-store,2024-11-04,103.39,7,22.92,15.69,13
+d8bac01f-32ec-47a0-b045-3b1988cdf086,Toys,South,Credit Card,Pending,35-44,Same Day,Chair,Yes,In-store,2024-11-01,206.57,6,45.53,40.7,7
+14bf2ef1-0eec-4893-9dfd-63160a3b4aaf,Food,East,PayPal,Shipped,45-54,Standard,Smartphone,Yes,Online,2024-11-02,313.08,10,47.92,16.85,33
+15a6ee81-a22c-4012-a255-7dd6e1615152,Clothing,North,PayPal,Completed,45-54,Same Day,T-shirt,No,Online,2024-11-01,138.73,9,34.21,49.86,32
+df74010f-f243-4b94-bde6-ce9e66e29804,Toys,East,Cash,Pending,25-34,Same Day,Chair,Yes,Online,2024-11-04,456.74,5,33.83,14.3,13
+441e4bed-76ee-40d2-abc0-d87e27b03233,Clothing,South,Credit Card,Shipped,18-24,Standard,Chair,No,In-store,2024-11-02,327.56,7,14.2,25.86,4
+7fda5cdb-e72b-4040-9420-725f650e8700,Food,West,PayPal,Pending,55+,Express,Chair,No,In-store,2024-11-01,469.9,1,11.9,44.94,47
+0095caf5-e59c-49a4-a865-c2640c2f5b21,Clothing,South,Credit Card,Shipped,25-34,Same Day,Laptop,Yes,In-store,2024-11-01,446.03,5,11.79,48.12,29
+b831cd9d-b3eb-4a5f-822a-53c3eb00ef91,Clothing,West,PayPal,Pending,18-24,Same Day,Chair,No,Online,2024-11-03,165.23,6,44.61,40.22,43
+43d986a5-1599-4614-aa19-d7dfc160793f,Food,South,PayPal,Pending,55+,Standard,Laptop,No,In-store,2024-11-03,364.61,10,28.49,2.6,16
+95c35941-f8f7-4564-b323-55ca57537e17,Toys,North,PayPal,Pending,18-24,Standard,Chair,Yes,In-store,2024-11-04,223.28,7,44.47,39.76,11
+6acf514b-3d24-4907-89f2-f8029ce5794d,Toys,North,Cash,Completed,55+,Same Day,T-shirt,Yes,In-store,2024-11-02,229.21,3,20.33,31.91,7
+c0a3d2f0-975b-4dec-b8c9-02ef1b86f94d,Clothing,East,PayPal,Completed,25-34,Express,Chair,Yes,Online,2024-11-03,433.97,1,46.63,7.97,11
+c700769f-9868-4a53-9914-3f84c3b9ef1c,Clothing,East,PayPal,Completed,18-24,Same Day,Smartphone,Yes,Online,2024-11-01,278.08,9,17.24,43.25,26
+4d99cc9a-4c67-43d0-a207-a27d0297f1e0,Electronics,North,Cash,Completed,45-54,Standard,Food Item,No,In-store,2024-11-03,157.52,10,38.04,18.61,17
+dd6f8ff6-771a-4f11-965f-07b0b9ab8af5,Clothing,East,Credit Card,Pending,35-44,Express,Laptop,Yes,Online,2024-11-02,353.35,5,29.12,1.07,16
+76b79e86-e331-4715-b12a-a263a2e19589,Clothing,West,Cash,Shipped,35-44,Same Day,Laptop,No,In-store,2024-11-05,287.57,10,27.61,17.86,3
+64438377-9a8a-48f4-a89f-af251b97eb23,Food,West,Cash,Completed,18-24,Standard,T-shirt,No,In-store,2024-11-02,458.6,8,21.53,24.89,13
+024df5c4-4e2c-4640-a516-25f61d339141,Clothing,North,Credit Card,Pending,18-24,Express,Smartphone,No,In-store,2024-11-01,453.55,2,37.99,17.63,7
+fa9f0d6f-91a6-4370-96e7-a8c4521e21ee,Toys,West,Cash,Shipped,35-44,Express,Food Item,Yes,In-store,2024-11-01,195.31,2,19.0,31.36,34
+20be0968-2f0a-4de2-a739-5e800d7eddd2,Electronics,North,PayPal,Completed,45-54,Standard,Chair,No,In-store,2024-11-05,166.5,1,18.11,15.74,33
+2c1ab55e-eecf-4ef2-835d-9647b0056d86,Toys,North,Cash,Shipped,55+,Standard,Chair,Yes,Online,2024-11-03,87.2,1,21.42,14.94,18
+4cfa9ead-2ee1-4263-a2fa-2178852a9811,Toys,East,Credit Card,Pending,55+,Same Day,Smartphone,Yes,In-store,2024-11-02,163.79,9,9.65,1.24,31
+72b0021e-239d-4726-9de0-c590971b4991,Food,East,Cash,Completed,45-54,Standard,Smartphone,No,In-store,2024-11-02,360.34,3,23.38,20.71,25
+7ee25641-8411-4e7f-99ff-59327ffb7a9e,Food,South,PayPal,Shipped,45-54,Same Day,Chair,Yes,Online,2024-11-03,45.47,8,9.77,27.27,43
+267ea847-7cf4-446b-bd8c-179e43901c4b,Food,South,PayPal,Shipped,35-44,Standard,Smartphone,No,In-store,2024-11-05,406.89,1,48.22,13.18,26
+f6c0c601-d46e-41c7-b096-6e31dae27a39,Electronics,North,Cash,Shipped,55+,Express,Smartphone,Yes,Online,2024-11-01,446.44,8,35.14,0.74,17
+9e311701-92f4-4a3c-a11a-2d30b4e280f7,Clothing,East,Cash,Pending,25-34,Express,Laptop,Yes,In-store,2024-11-02,469.02,1,48.21,27.04,15
+7b0bea1f-7031-46ac-925f-23ac11176e3e,Food,South,Credit Card,Shipped,55+,Standard,Chair,Yes,In-store,2024-11-01,254.56,1,29.28,4.8,14
+699ce28e-f5ac-4007-bd06-95edd3ca4a52,Food,South,Cash,Shipped,55+,Express,Chair,Yes,In-store,2024-11-04,487.64,1,7.69,16.78,35
+9b90d2a7-35b1-43c8-a7f0-6b370ecd8b63,Food,North,Cash,Shipped,35-44,Standard,Chair,Yes,In-store,2024-11-04,425.7,3,34.27,38.48,45
+5061aba6-7cc0-4688-9599-ceef4740056e,Furniture,East,Credit Card,Completed,45-54,Same Day,T-shirt,No,Online,2024-11-04,68.03,3,42.51,38.8,20
+59ed9957-6a0f-4b60-b9e3-7f5a4bbbb1b1,Toys,West,Credit Card,Pending,18-24,Express,Smartphone,Yes,Online,2024-11-02,349.83,9,28.43,34.16,7
